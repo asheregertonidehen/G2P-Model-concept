@@ -1,0 +1,3891 @@
+A|a
+B|b
+C|c
+D|d
+E|e
+F|f
+G|g
+H|h
+I|i
+J|j
+K|k
+L|l
+M|m
+N|n
+O|o
+P|p
+Q|q
+R|r
+S|s
+T|t
+U|u
+V|v
+W|w
+X|x
+Y|j
+Z|z
+a|a
+b|b
+c|c
+d|d
+e|e
+f|f
+g|g
+h|h
+i|i
+j|j
+k|k
+l|l
+m|m
+n|n
+o|o
+p|p
+q|q
+r|r
+s|s
+t|t
+u|u
+v|v
+w|w
+x|x
+y|j
+z|z
+É|é
+è|è
+é|é
+ì|ì
+ó|ó
+ʹ|ʹ
+ạ|ạ
+Ẹ|ɛ
+ẹ|ɛ
+Ọ|ɔ
+ọ|ɔ
+a|a
+abaija|a b a i j a
+abakuru|a b a k u r u
+abawẹ|a b a w ɛ
+abe|a b e
+abel|a b e l
+abigail|a b i g a i l
+abigẹl|a b i g ɛ l
+abiram|a b i r a m
+abiọmwabiẹ|a b i ɔ ʋ a b i ɛ
+abo|a b o
+abotu|a b o t u
+about|a b o u t
+abraham|a b r a h a m
+abẹ|a b ɛ
+abọ|a b ɔ
+abọtọ|a b ɔ t ɔ
+academy|a c a d e m j
+activities|a c t i v i t i e s
+acts|a c t s
+ada|a d a
+adam|a d a m
+adams|a d a m s
+adazẹ|a d a z ɛ
+adeghe|a d e ɣ e
+adeghẹ|a d e ɣ ɛ
+adelaide|a d e l a i d e
+adesẹ|a d e s ɛ
+adesẹneva|a d e s ɛ n e v a
+adia|a d i a
+adogbannọ|a d o ɡ b a n n ɔ
+adolf|a d o l f
+adrrẹsi|a d ɽ ɛ s i
+adrẹsi|a d r ɛ s i
+adẹwerriegbe|a d ɛ w e ɽ i e ɡ b e
+adọlọ|a d ɔ l ɔ
+aegean|a e g e a n
+afan|a f a n
+afanvbimu|a f a n ʋ i m u
+afiama|a f i a m a
+afiangbe|a f i a n ɡ b e
+afianma|a f i a n m a
+afierhan|a f i e ɾ a n
+afiwerriẹ|a f i w e ɽ i ɛ
+africa|a f r i c a
+afọ|a f ɔ
+aga|a g a
+agabagebe|a g a b a g e b e
+agag|a g a g
+agan|a g a n
+agape|a g a p e
+agbada|a ɡ b a d a
+agbadi|a ɡ b a d i
+agbaghuzalẹ|a ɡ b a ɣ u z a l ɛ
+agbaziro|a ɡ b a z i r o
+agbeha|a ɡ b e h a
+agbekunsotọ|a ɡ b e k u n s o t ɔ
+agbẹkunsotọ|a ɡ b ɛ k u n s o t ɔ
+agbẹn|a ɡ b ɛ n
+agbẹnkunsotọ|a ɡ b ɛ n k u n s o t ɔ
+agbẹnvbo|a ɡ b ɛ n ʋ o
+agbọmwa|a ɡ b ɔ ʋ a
+agbọn|a ɡ b ɔ n
+age|a g e
+agele|a g e l e
+aghae|a ɣ a e
+aghanghan|a ɣ a n ɣ a n
+agharhemiẹn|a ɣ a ɾ e m i ɛ n
+agharhẹmiẹn|a ɣ a ɾ ɛ m i ɛ n
+agikpa|a g i k p a
+agiẹngiẹn|a g i ɛ n g i ɛ n
+aguakpa|a g u a k p a
+aguẹ|a g u ɛ
+agọ|a g ɔ
+agọr|a g ɔ r
+ahianmwẹ|a h i a n ʋ ɛ
+ahitofẹl|a h i t o f ɛ l
+ahoo|a h o o
+ahoẹmwomwa|a h o ɛ ʋ o ʋ a
+ahoẹmwẹ|a h o ɛ ʋ ɛ
+ahoẹmwẹmwa|a h o ɛ ʋ ɛ ʋ a
+ahoẹmwẹọmwa|a h o ɛ ʋ ɛ ɔ ʋ a
+ahoẹmwọmwa|a h o ɛ ʋ ɔ ʋ a
+ahoọ|a h o ɔ
+ahọ|a h ɔ
+ahọemwọmwa|a h ɔ e ʋ ɔ ʋ a
+ai|a i
+aighẹru|a i ɣ ɛ r u
+air|a i r
+aiz|a i z
+aizaia|a i z a i a
+aizik|a i z i k
+aiziki|a i z i k i
+aka|a k a
+akharha|a x a ɾ a
+akhasẹ|a x a s ɛ
+akhaẹn|a x a ɛ n
+akhe|a x e
+akhiẹ|a x i ɛ
+akhuẹ|a x u ɛ
+akiyẹyẹ|a k i j ɛ j ɛ
+ako|a k o
+akota|a k o t a
+akpa|a k p a
+akpakomiza|a k p a k o m i z a
+akpan|a k p a n
+akpawẹ|a k p a w ɛ
+akpehuan|a k p e h u a n
+akpọkọ|a k p ɔ k ɔ
+aksamai|a k s a m a i
+akueyi|a k u e j i
+akugbe|a k u ɡ b e
+akuila|a k u i l a
+akuọkan|a k u ɔ k a n
+akọn|a k ɔ n
+akọwe|a k ɔ w e
+ala|a l a
+alabama|a l a b a m a
+alagberra|a l a ɡ b e ɽ a
+alagbodẹ|a l a ɡ b o d ɛ
+alaghadaro|a l a ɣ a d a r o
+alaghodaro|a l a ɣ o d a r o
+alama|a l a m a
+alamoghẹ|a l a m o ɣ ɛ
+alaotra|a l a o t r a
+albania|a l b a n i a
+albert|a l b e r t
+alejandro|a l e j a n d r o
+alexander|a l e x a n d e r
+alimo|a l i m o
+alisa|a l i s a
+allen|a l l e n
+alma|a l m a
+almaty|a l m a t j
+alubarha|a l u b a ɾ a
+alughaẹn|a l u ɣ a ɛ n
+alyona|a l j o n a
+alzheimer|a l z h e i m e r
+ama|a m a
+amagba|a m a ɡ b a
+amagẹdọn|a m a g ɛ d ɔ n
+amaiwẹ|a m a i w ɛ
+amalẹk|a m a l ɛ k
+amamiẹn|a m a m i ɛ n
+america|a m e r i c a
+ameve|a m e v e
+amigbo|a m i ɡ b o
+amnọn|a m n ɔ n
+amsterdam|a m s t e r d a m
+amuegbe|a m u e ɡ b e
+amuroro|a m u r o r o
+amusẹ|a m u s ɛ
+amuyọmọ|a m u j ɔ m ɔ
+amuẹntinyan|a m u ɛ n t i n j a n
+amuẹtinyan|a m u ɛ t i n j a n
+amwebọ|a ʋ e b ɔ
+amwẹ|a ʋ ɛ
+amẹ|a m ɛ
+amọn|a m ɔ n
+an|a n
+ananaias|a n a n a i a s
+and|a n d
+angarsk|a n g a r s k
+angat|a n g a t
+anglican|a n g l i c a n
+animation|a n i m a t i o n
+ann|a n n
+anna|a n n a
+answers|a n s w e r s
+antandroy|a n t a n d r o j
+antiọk|a n t i ɔ k
+anton|a n t o n
+app|a p p
+appendix|a p p e n d i x
+apple|a p p l e
+application|a p p l i c a t i o n
+april|a p r i l
+apsha|a p s h a
+apun|a p u n
+araba|a r a b a
+aramaic|a r a m a i c
+aranmwẹ|a r a n ʋ ɛ
+aranmwọkhọ|a r a n ʋ ɔ x ɔ
+arhie|a ɾ i e
+arhin|a ɾ i n
+arhiọkpaegbe|a ɾ i ɔ k p a e ɡ b e
+arhuanran|a ɾ u a n r a n
+arhunmwu|a ɾ u n ʋ u
+arhuẹ|a ɾ u ɛ
+arhẹrhẹ|a ɾ ɛ ɾ ɛ
+arimatia|a r i m a t i a
+arkansas|a r k a n s a s
+armagh|a r m a ɣ
+armavir|a r m a v i r
+aro|a r o
+arovbẹmwẹ|a r o ʋ ɛ ʋ ɛ
+arowa|a r o w a
+arre|a ɽ e
+arria|a ɽ i a
+arriaisẹn|a ɽ i a i s ɛ n
+arriavbehe|a ɽ i a ʋ e h e
+arrioba|a ɽ i o b a
+arriukpa|a ɽ i u k p a
+arriọba|a ɽ i ɔ b a
+arriọkpaegbe|a ɽ i ɔ k p a e ɡ b e
+arrọọ|a ɽ ɔ ɔ
+arthur|a r t h u r
+arudinnodẹ|a r u d i n n o d ɛ
+arọ|a r ɔ
+arọndẹ|a r ɔ n d ɛ
+arọọ|a r ɔ ɔ
+as|a s
+asa|a s a
+asan|a s a n
+asanikaro|a s a n i k a r o
+ase|a s e
+asefẹn|a s e f ɛ n
+ashdod|a s h d o d
+ashtoreth|a s h t o r e t h
+asia|a s i a
+asigbe|a s i ɡ b e
+asikoko|a s i k o k o
+asikẹgbe|a s i k ɛ ɡ b e
+asiria|a s i r i a
+ask|a s k
+asobọrrie|a s o b ɔ ɽ i e
+asoro|a s o r o
+assembly|a s s e m b l j
+asunción|a s u n c i ó n
+asẹ|a s ɛ
+asọn|a s ɔ n
+at|a t
+ata|a t a
+atamuolọyan|a t a m u o l ɔ j a n
+atatabọ|a t a t a b ɔ
+athens|a t h e n s
+atkinson|a t k i n s o n
+atlaẹn|a t l a ɛ n
+ato|a t o
+atosi|a t o s i
+atsuko|a t s u k o
+atuẹ|a t u ɛ
+atuẹwerriegbe|a t u ɛ w e ɽ i e ɡ b e
+atẹ|a t ɛ
+atẹns|a t ɛ n s
+aug|a u g
+august|a u g u s t
+ausralia|a u s r a l i a
+austin|a u s t i n
+australia|a u s t r a l i a
+austria|a u s t r i a
+avan|a v a n
+avanukhunmwu|a v a n u x u n ʋ u
+avava|a v a v a
+avbe|a ʋ e
+avbiẹ|a ʋ i ɛ
+avbiẹrẹ|a ʋ i ɛ r ɛ
+awake|a w a k e
+awanwan|a w a n w a n
+awarọkpa|a w a r ɔ k p a
+awarọkpani|a w a r ɔ k p a n i
+awua|a w u a
+ayabọ|a j a b ɔ
+ayahọmwaehọ|a j a h ɔ ʋ a e h ɔ
+ayan|a j a n
+ayawewe|a j a w e w e
+ayayero|a j a j e r o
+ayayẹro|a j a j ɛ r o
+ayayẹrọ|a j a j ɛ r ɔ
+ayere|a j e r e
+ayi|a j i
+ayo|a j o
+ayobọsekhae|a j o b ɔ s e x a e
+ayọn|a j ɔ n
+aza|a z a
+azagba|a z a ɡ b a
+azaia|a z a i a
+azamemwi|a z a m e ʋ i
+azara|a z a r a
+azaraia|a z a r a i a
+azukpogieva|a z u k p o g i e v a
+azẹ|a z ɛ
+azẹvbiro|a z ɛ ʋ i r o
+aʹbo|a ʹ b o
+b|b
+ba|b a
+baa|b a a
+baba|b a b a
+babanna|b a b a n n a
+babilọn|b a b i l ɔ n
+bae|b a e
+baeku|b a e k u
+baibol|b a i b o l
+baibọl|b a i b ɔ l
+balychy|b a l j c h j
+balykchy|b a l j k c h j
+balọ|b a l ɔ
+ban|b a n
+banabas|b a n a b a s
+banban|b a n b a n
+banbanna|b a n b a n n a
+bangladesh|b a n g l a d e s h
+bank|b a n k
+bannuan|b a n n u a n
+baptist|b a p t i s t
+bare|b a r e
+barr|b a ɽ
+barọk|b a r ɔ k
+bath|b a t h
+batsiẹba|b a t s i ɛ b a
+bazely|b a z e l j
+baẹn|b a ɛ n
+beat|b e a t
+beck|b e c k
+begbe|b e ɡ b e
+beghe|b e ɣ e
+beishenbai|b e i s h e n b a i
+belfast|b e l f a s t
+belgorod|b e l g o r o d
+believe|b e l i e v e
+ben|b e n
+benefit|b e n e f i t
+beni|b e n i
+benjamin|b e n j a m i n
+berdibaev|b e r d i b a e v
+bereaved|b e r e a v e d
+bi|b i
+bibi|b i b i
+bible|b i b l e
+bicol|b i c o l
+bie|b i e
+biegbe|b i e ɡ b e
+bii|b i i
+billion|b i l l i o n
+biro|b i r o
+bishkek|b i s h k e k
+bitinia|b i t i n i a
+bizugbe|b i z u ɡ b e
+bizugbẹe|b i z u ɡ b ɛ e
+biẹ|b i ɛ
+biẹe|b i ɛ e
+biẹle|b i ɛ l e
+biẹlẹ|b i ɛ l ɛ
+biọ|b i ɔ
+black|b l a c k
+blossom|b l o s s o m
+bluff|b l u f f
+bo|b o
+boaz|b o a z
+bob|b o b
+bodanis|b o d a n i s
+bodẹ|b o d ɛ
+bogdan|b o g d a n
+bolo|b o l o
+book|b o o k
+bosnia|b o s n i a
+boston|b o s t o n
+bound|b o u n d
+brandon|b r a n d o n
+brandt|b r a n d t
+brazil|b r a z i l
+bridge|b r i d g e
+bright|b r i ɣ t
+brisbane|b r i s b a n e
+britain|b r i t a i n
+broadcasting|b r o a d c a s t i n g
+bronx|b r o n x
+brooklyn|b r o o k l j n
+brothers|b r o t h e r s
+brown|b r o w n
+bu|b u
+bulacan|b u l a c a n
+bulgaria|b u l g a r i a
+bully|b u l l j
+bun|b u n
+bungbe|b u n ɡ b e
+buohiẹn|b u o h i ɛ n
+buru|b u r u
+bẹdi|b ɛ d i
+bẹghe|b ɛ ɣ e
+bẹkun|b ɛ k u n
+bẹnjamin|b ɛ n j a m i n
+bẹtlẹhẹm|b ɛ t l ɛ h ɛ m
+bẹtu|b ɛ t u
+bẹtẹl|b ɛ t ɛ l
+bọ|b ɔ
+bọbọ|b ɔ b ɔ
+bọdin|b ɔ d i n
+bọe|b ɔ e
+bọlọ|b ɔ l ɔ
+bọnmwẹ|b ɔ n ʋ ɛ
+c|c
+cake|c a k e
+caledonia|c a l e d o n i a
+calvin|c a l v i n
+can|c a n
+canada|c a n a d a
+carl|c a r l
+carlos|c a r l o s
+category|c a t e g o r j
+catholic|c a t h o l i c
+cebuano|c e b u a n o
+cells|c e l l s
+central|c e n t r a l
+century|c e n t u r j
+challenge|c h a l l e n g e
+changes|c h a n g e s
+charitable|c h a r i t a b l e
+charles|c h a r l e s
+charlotte|c h a r l o t t e
+chemosh|c h e m o s h
+cheshire|c h e s h i r e
+chicago|c h i c a g o
+child|c h i l d
+chimpoesh|c h i m p o e s h
+china|c h i n a
+chinese|c h i n e s e
+chocolate|c h o c o l a t e
+chomsky|c h o m s k j
+chris|c h r i s
+christ|c h r i s t
+christian|c h r i s t i a n
+christine|c h r i s t i n e
+christoph|c h r i s t o p h
+church|c h u r c h
+chy|c h j
+city|c i t j
+claire|c l a i r e
+cm|c m
+coach|c o a c h
+coast|c o a s t
+coat|c o a t
+cocoa|c o c o a
+colorado|c o l o r a d o
+columbia|c o l u m b i a
+comfort|c o m f o r t
+commissioner|c o m m i s s i o n e r
+company|c o m p a n j
+congo|c o n g o
+congregation|c o n g r e g a t i o n
+connor|c o n n o r
+construction|c o n s t r u c t i o n
+control|c o n t r o l
+couples|c o u p l e s
+court|c o u r t
+creator|c r e a t o r
+cruz|c r u z
+cte|c t e
+czech|c z e c h
+cọr|c ɔ r
+d|d
+da|d a
+daa|d a a
+dae|d a e
+daeyi|d a e j i
+dagbẹn|d a ɡ b ɛ n
+daiabitis|d a i a b i t i s
+daily|d a i l j
+dakaan|d a k a a n
+dakua|d a k u a
+dalene|d a l e n e
+damaris|d a m a r i s
+damaskọs|d a m a s k ɔ s
+damian|d a m i a n
+dan|d a n
+danica|d a n i c a
+daniel|d a n i e l
+daniẹl|d a n i ɛ l
+danlod|d a n l o d
+danmwehọ|d a n ʋ e h ɔ
+danmwẹ|d a n ʋ ɛ
+danmwẹho|d a n ʋ ɛ h o
+dannykarl|d a n n j k a r l
+darkness|d a r k n e s s
+datan|d a t a n
+datie|d a t i e
+datu|d a t u
+david|d a v i d
+dayi|d a j i
+de|d e
+deba|d e b a
+dec|d e c
+december|d e c e m b e r
+dede|d e d e
+dee|d e e
+defi|d e f i
+defua|d e f u a
+degbe|d e ɡ b e
+deghe|d e ɣ e
+deghẹ|d e ɣ ɛ
+degue|d e g u e
+dekaan|d e k a a n
+dekaẹn|d e k a ɛ n
+dekun|d e k u n
+dekẹe|d e k ɛ e
+dele|d e l e
+deliverance|d e l i v e r a n c e
+demu|d e m u
+denmark|d e n m a r k
+denmarki|d e n m a r k i
+dennis|d e n n i s
+department|d e p a r t m e n t
+depression|d e p r e s s i o n
+design|d e s i g n
+devid|d e v i d
+dewarorua|d e w a r o r u a
+dewuarorua|d e w u a r o r u a
+deyan|d e j a n
+deyọ|d e j ɔ
+deziẹn|d e z i ɛ n
+di|d i
+dia|d i a
+diae|d i a e
+diagbọnya|d i a ɡ b ɔ n j a
+diakhẹ|d i a x ɛ
+dianmwiamẹ|d i a n ʋ i a m ɛ
+dibu|d i b u
+dictionary|d i c t i o n a r j
+did|d i d
+didaghohi|d i d a ɣ o h i
+didier|d i d i e r
+die|d i e
+dies|d i e s
+digiẹ|d i g i ɛ
+digiẹn|d i g i ɛ n
+diguẹ|d i g u ɛ
+dihoi|d i h o i
+din|d i n
+dinariọs|d i n a r i ɔ s
+dinmwi|d i n ʋ i
+dinmwiame|d i n ʋ i a m e
+dinmwiamwẹ|d i n ʋ i a ʋ ɛ
+dinmwiamẹ|d i n ʋ i a m ɛ
+dinmwianmwẹ|d i n ʋ i a n ʋ ɛ
+dinmwiọn|d i n ʋ i ɔ n
+dinnodẹ|d i n n o d ɛ
+district|d i s t r i c t
+diut|d i u t
+diuteronomi|d i u t e r o n o m i
+divine|d i v i n e
+dizigha|d i z i ɣ a
+diẹn|d i ɛ n
+do|d o
+dobọ|d o b ɔ
+dobọyi|d o b ɔ j i
+does|d o e s
+dollar|d o l l a r
+don|d o n
+donald|d o n a l d
+doo|d o o
+doratine|d o r a t i n e
+dorothy|d o r o t h j
+down|d o w n
+doẹki|d o ɛ k i
+dpa|d p a
+dublin|d u b l i n
+dumaguete|d u m a g u e t e
+dunmwu|d u n ʋ u
+dunna|d u n n a
+dustin|d u s t i n
+duẹki|d u ɛ k i
+dẹ|d ɛ
+dẹbit|d ɛ b i t
+dẹgbẹe|d ɛ ɡ b ɛ e
+dẹghe|d ɛ ɣ e
+dẹlẹ|d ɛ l ɛ
+dẹẹ|d ɛ ɛ
+dọ|d ɔ
+dọe|d ɔ e
+dọkas|d ɔ k a s
+dọkasi|d ɔ k a s i
+dọlegbe|d ɔ l e ɡ b e
+dọlọ|d ɔ l ɔ
+dọlọyi|d ɔ l ɔ j i
+dọmwade|d ɔ ʋ a d e
+dọmwadẹ|d ɔ ʋ a d ɛ
+dọmwadọghẹ|d ɔ ʋ a d ɔ ɣ ɛ
+dọmwadọghẹe|d ɔ ʋ a d ɔ ɣ ɛ e
+dọmwadọghọe|d ɔ ʋ a d ɔ ɣ ɔ e
+dọmwandẹ|d ɔ ʋ a n d ɛ
+dọn|d ɔ n
+dọyọ|d ɔ j ɔ
+e|e
+earl|e a r l
+easily|e a s i l j
+east|e a s t
+ebamiro|e b a m i r o
+eban|e b a n
+ebanban|e b a n b a n
+ebe|e b e
+ebi|e b i
+ebiebi|e b i e b i
+ebiro|e b i r o
+ebo|e b o
+ebraham|e b r a h a m
+ebu|e b u
+ebubẹ|e b u b ɛ
+ebuka|e b u k a
+ebunbunmwẹhẹn|e b u n b u n ʋ ɛ h ɛ n
+ebẹdi|e b ɛ d i
+ebẹl|e b ɛ l
+ebọ|e b ɔ
+ecclesiasticus|e c c l e s i a s t i c u s
+ecija|e c i j a
+edagbọn|e d a ɡ b ɔ n
+edanmwẹ|e d a n ʋ ɛ
+edigue|e d i g u e
+ediran|e d i r a n
+ediọn|e d i ɔ n
+ediọnmwa|e d i ɔ n ʋ a
+edo|e d o
+edogbandogban|e d o ɡ b a n d o ɡ b a n
+edogbo|e d o ɡ b o
+eduard|e d u a r d
+eduardo|e d u a r d o
+education|e d u c a t i o n
+edunna|e d u n n a
+edward|e d w a r d
+edọmwade|e d ɔ ʋ a d e
+edọmwadẹ|e d ɔ ʋ a d ɛ
+edọmwande|e d ɔ ʋ a n d e
+efaa|e f a a
+efe|e f e
+efis|e f i s
+efisọs|e f i s ɔ s
+efoni|e f o n i
+efoto|e f o t o
+egba|e ɡ b a
+egbakhian|e ɡ b a x i a n
+egbe|e ɡ b e
+egberran|e ɡ b e ɽ a n
+egberranmwẹ|e ɡ b e ɽ a n ʋ ɛ
+egberriotọ|e ɡ b e ɽ i o t ɔ
+egberọkhọmwẹ|e ɡ b e r ɔ x ɔ ʋ ɛ
+egbewọmwẹ|e ɡ b e w ɔ ʋ ɛ
+egbowa|e ɡ b o w a
+egbua|e ɡ b u a
+egbuẹ|e ɡ b u ɛ
+egbẹ|e ɡ b ɛ
+egbẹe|e ɡ b ɛ e
+egbọre|e ɡ b ɔ r e
+egebe|e g e b e
+egedege|e g e d e g e
+eghan|e ɣ a n
+eghaẹvbo|e ɣ a ɛ ʋ o
+eghe|e ɣ e
+eghian|e ɣ i a n
+eghute|e ɣ u t e
+eghẹ|e ɣ ɛ
+eghẹnghẹn|e ɣ ɛ n ɣ ɛ n
+eghọẹn|e ɣ ɔ ɛ n
+egiaye|e g i a j e
+egie|e g i e
+egiọn|e g i ɔ n
+eguọmwadia|e g u ɔ ʋ a d i a
+eha|e h a
+ehan|e h a n
+ehaz|e h a z
+ehe|e h e
+ehia|e h i a
+ehuanegbe|e h u a n e ɡ b e
+ehẹn|e h ɛ n
+ehọ|e h ɔ
+ehọnrre|e h ɔ n ɽ e
+ei|e i
+ejvor|e j v o r
+eka|e k a
+ekad|e k a d
+ekan|e k a n
+ekaolotu|e k a o l o t u
+ekaptaki|e k a p t a k i
+eke|e k e
+ekesugie|e k e s u g i e
+ekhae|e x a e
+ekhakha|e x a x a
+ekhaẹmwẹ|e x a ɛ ʋ ɛ
+ekhoẹ|e x o ɛ
+ekhuarho|e x u a ɾ o
+ekhue|e x u e
+ekhẹn|e x ɛ n
+ekhọe|e x ɔ e
+ekhọesi|e x ɔ e s i
+eki|e k i
+ekita|e k i t a
+eko|e k o
+ekoboko|e k o b o k o
+ekokoudu|e k o k o u d u
+ekorhiẹnrhiẹnmwẹ|e k o ɾ i ɛ n ɾ i ɛ n ʋ ɛ
+ekpa|e k p a
+ekpakpasusu|e k p a k p a s u s u
+ekpataki|e k p a t a k i
+ekpayẹ|e k p a j ɛ
+ekpẹn|e k p ɛ n
+ekpọ|e k p ɔ
+ekpọnmwẹ|e k p ɔ n ʋ ɛ
+eku|e k u
+ekueku|e k u e k u
+ekẹn|e k ɛ n
+ekẹtẹkẹtẹ|e k ɛ t ɛ k ɛ t ɛ
+ekọ|e k ɔ
+ekọmputa|e k ɔ m p u t a
+elaihu|e l a i h u
+elena|e l e n a
+eliaikim|e l i a i k i m
+elias|e l i a s
+elikhukhu|e l i x u x u
+elizabeth|e l i z a b e t h
+elizabẹt|e l i z a b ɛ t
+elkana|e l k a n a
+elẹta|e l ɛ t a
+ema|e m a
+emadogua|e m a d o g u a
+emamwaemwi|e m a ʋ a e ʋ i
+emana|e m a n a
+emasini|e m a s i n i
+ematọn|e m a t ɔ n
+emaọs|e m a ɔ s
+emi|e m i
+emianmwẹ|e m i a n ʋ ɛ
+emil|e m i l
+emiowo|e m i o w o
+emo|e m o
+emobọ|e m o b ɔ
+emotọ|e m o t ɔ
+emu|e m u
+emuẹn|e m u ɛ n
+emwa|e ʋ a
+emwamwa|e ʋ a ʋ a
+emwata|e ʋ a t a
+emwi|e ʋ i
+emwidamwẹ|e ʋ i d a ʋ ɛ
+emwidan|e ʋ i d a n
+emwikemwi|e ʋ i k e ʋ i
+emwiokọ|e ʋ i o k ɔ
+emwiorhọ|e ʋ i o ɾ ɔ
+emọ|e m ɔ
+emọle|e m ɔ l e
+emọs|e m ɔ s
+ena|e n a
+enakpolugho|e n a k p o l u ɣ o
+enaye|e n a j e
+encyclopedia|e n c j c l o p e d i a
+enduring|e n d u r i n g
+ene|e n e
+enegbe|e n e ɡ b e
+enene|e n e n e
+enenẹ|e n e n ɛ
+england|e n g l a n d
+eni|e n i
+enibun|e n i b u n
+enikẹre|e n i k ɛ r e
+enina|e n i n a
+eniwanrẹn|e n i w a n r ɛ n
+eniwu|e n i w u
+enjoyable|e n j o j a b l e
+enogieva|e n o g i e v a
+enẹ|e n ɛ
+enẹirrọvbugie|e n ɛ i ɽ ɔ ʋ u g i e
+enọ|e n ɔ
+enọk|e n ɔ k
+enọkpa|e n ɔ k p a
+enọmba|e n ɔ m b a
+enọwanrẹn|e n ɔ w a n r ɛ n
+enọwarẹn|e n ɔ w a r ɛ n
+enọyan|e n ɔ j a n
+enọyaẹnmwa|e n ɔ j a ɛ n ʋ a
+epilepsy|e p i l e p s j
+ere|e r e
+erha|e ɾ a
+erhae|e ɾ a e
+erhan|e ɾ a n
+erhavbavbotọ|e ɾ a ʋ a ʋ o t ɔ
+erhu|e ɾ u
+erhuanegbe|e ɾ u a n e ɡ b e
+erhunmwu|e ɾ u n ʋ u
+erhunmwuyẹn|e ɾ u n ʋ u j ɛ n
+erhẹn|e ɾ ɛ n
+erhọkpa|e ɾ ɔ k p a
+ericka|e r i c k a
+erika|e r i k a
+erinmwi|e r i n ʋ i
+erinmwian|e r i n ʋ i a n
+ero|e r o
+erre|e ɽ e
+erria|e ɽ i a
+erriọ|e ɽ i ɔ
+erriọvbe|e ɽ i ɔ ʋ e
+erẹnrẹn|e r ɛ n r ɛ n
+erẹrẹ|e r ɛ r ɛ
+erọn|e r ɔ n
+esa|e s a
+esagiẹn|e s a g i ɛ n
+esakan|e s a k a n
+esankan|e s a n k a n
+ese|e s e
+eseghan|e s e ɣ a n
+esi|e s i
+esia|e s i a
+esiesi|e s i e s i
+esiga|e s i g a
+esiliva|e s i l i v a
+esiọre|e s i ɔ r e
+eso|e s o
+estonia|e s t o n i a
+esu|e s u
+esọsi|e s ɔ s i
+etalọ|e t a l ɔ
+etan|e t a n
+etebul|e t e b u l
+eteburu|e t e b u r u
+eternal|e t e r n a l
+eti|e t i
+etian|e t i a n
+etien|e t i e n
+etisa|e t i s a
+etiẹn|e t i ɛ n
+etiọn|e t i ɔ n
+etiọnrẹn|e t i ɔ n r ɛ n
+eto|e t o
+eturari|e t u r a r i
+etuẹn|e t u ɛ n
+etẹbitẹ|e t ɛ b i t ɛ
+etẹlifoni|e t ɛ l i f o n i
+etẹn|e t ɛ n
+euodia|e u o d i a
+europe|e u r o p e
+eva|e v a
+evangelizers|e v a n g e l i z e r s
+evba|e ʋ a
+evbagbẹn|e ʋ a ɡ b ɛ n
+evbakọnrẹn|e ʋ a k ɔ n r ɛ n
+evbare|e ʋ a r e
+evbavba|e ʋ a ʋ a
+evbayi|e ʋ a j i
+evbibie|e ʋ i b i e
+evbibiemọ|e ʋ i b i e m ɔ
+evbibiran|e ʋ i b i r a n
+evbibiẹ|e ʋ i b i ɛ
+evbibiẹmwẹ|e ʋ i b i ɛ ʋ ɛ
+evbibiẹmọ|e ʋ i b i ɛ m ɔ
+evbibiọ|e ʋ i b i ɔ
+evbo|e ʋ o
+evburriẹ|e ʋ u ɽ i ɛ
+evbọ|e ʋ ɔ
+evbọzẹe|e ʋ ɔ z ɛ e
+eve|e v e
+eveva|e v e v a
+eviẹn|e v i ɛ n
+evẹn|e v ɛ n
+ewanmwẹ|e w a n ʋ ɛ
+ewanniẹn|e w a n n i ɛ n
+ewaẹn|e w a ɛ n
+ewe|e w e
+ewindo|e w i n d o
+ewẹn|e w ɛ n
+ewọwọ|e w ɔ w ɔ
+exercise|e x e r c i s e
+experiences|e x p e r i e n c e s
+eyan|e j a n
+eyist|e j i s t
+eyẹ|e j ɛ
+ezanzan|e z a n z a n
+ezik|e z i k
+ezikiẹl|e z i k i ɛ l
+ezra|e z r a
+ezọbu|e z ɔ b u
+f|f
+fa|f a
+facebook|f a c e b o o k
+fafaa|f a f a a
+fai|f a i
+fajardo|f a j a r d o
+family|f a m i l j
+fan|f a n
+fannọ|f a n n ɔ
+farisi|f a r i s i
+faẹn|f a ɛ n
+fe|f e
+february|f e b r u a r j
+federico|f e d e r i c o
+feldbach|f e l d b a c h
+felix|f e l i x
+fero|f e r o
+fi|f i
+fiabọ|f i a b ɔ
+fian|f i a n
+fiangbe|f i a n ɡ b e
+fiangbua|f i a n ɡ b u a
+fiangbuẹ|f i a n ɡ b u ɛ
+fiangbẹe|f i a n ɡ b ɛ e
+fiaẹn|f i a ɛ n
+fibi|f i b i
+fidọn|f i d ɔ n
+fiegbua|f i e ɡ b u a
+fieghe|f i e ɣ e
+fifi|f i f i
+fil|f i l
+filip|f i l i p
+filipai|f i l i p a i
+filippai|f i l i p p a i
+filo|f i l o
+finch|f i n c h
+fiohan|f i o h a n
+fioro|f i o r o
+fira|f i r a
+firaa|f i r a a
+fists|f i s t s
+fiwerriẹ|f i w e ɽ i ɛ
+fiyekegbe|f i j e k e ɡ b e
+fiyekegbẹe|f i j e k e ɡ b ɛ e
+fiẹ|f i ɛ
+flavius|f l a v i u s
+florida|f l o r i d a
+fo|f o
+foni|f o n i
+foo|f o o
+for|f o r
+forrest|f o ɽ e s t
+fot|f o t
+foto|f o t o
+foẹ|f o ɛ
+france|f r a n c e
+franz|f r a n z
+fred|f r e d
+frederick|f r e d e r i c k
+free|f r e e
+freetown|f r e e t o w n
+french|f r e n c h
+from|f r o m
+ftn|f t n
+fu|f u
+fua|f u a
+fuan|f u a n
+fulham|f u l h a m
+furre|f u ɽ e
+fuẹ|f u ɛ
+fuẹn|f u ɛ n
+fuẹro|f u ɛ r o
+fuẹrọ|f u ɛ r ɔ
+fìangbe|f ì a n ɡ b e
+fẹfẹfẹ|f ɛ f ɛ f ɛ
+fẹko|f ɛ k o
+fẹẹre|f ɛ ɛ r e
+fẹẹrẹ|f ɛ ɛ r ɛ
+fọ|f ɔ
+fọfua|f ɔ f u a
+fọnbọ|f ɔ n b ɔ
+ga|g a
+gaa|g a a
+gablọ|g a b l ɔ
+gabriẹl|g a b r i ɛ l
+gaby|g a b j
+gada|g a d a
+gae|g a e
+gaelic|g a e l i c
+gaga|g a g a
+gal|g a l
+galatia|g a l a t i a
+galaxy|g a l a x j
+galili|g a l i l i
+gamaliel|g a m a l i e l
+game|g a m e
+games|g a m e s
+gary|g a r j
+gaʹpe|g a ʹ p e
+gba|ɡ b a
+gbaa|ɡ b a a
+gbaan|ɡ b a a n
+gbae|ɡ b a e
+gbaengbe|ɡ b a e n ɡ b e
+gbagba|ɡ b a ɡ b a
+gbagbae|ɡ b a ɡ b a e
+gbain|ɡ b a i n
+gbakhia|ɡ b a x i a
+gbakiyẹyẹ|ɡ b a k i j ɛ j ɛ
+gbalaka|ɡ b a l a k a
+gbalọ|ɡ b a l ɔ
+gbalọe|ɡ b a l ɔ e
+gbamẹ|ɡ b a m ɛ
+gban|ɡ b a n
+gbanegbe|ɡ b a n e ɡ b e
+gbannọ|ɡ b a n n ɔ
+gbannọẹn|ɡ b a n n ɔ ɛ n
+gbaro|ɡ b a r o
+gbaroghe|ɡ b a r o ɣ e
+gbaroghẹ|ɡ b a r o ɣ ɛ
+gbarokotọ|ɡ b a r o k o t ɔ
+gbawawẹ|ɡ b a w a w ɛ
+gbaẹnegbe|ɡ b a ɛ n e ɡ b e
+gbaẹngbe|ɡ b a ɛ n ɡ b e
+gbe|ɡ b e
+gbegba|ɡ b e ɡ b a
+gbehọ|ɡ b e h ɔ
+gbekhakha|ɡ b e x a x a
+gbele|ɡ b e l e
+gbennẹ|ɡ b e n n ɛ
+gberra|ɡ b e ɽ a
+gberrra|ɡ b e ɽ r a
+gbii|ɡ b i i
+gbikhaẹn|ɡ b i x a ɛ n
+gbinna|ɡ b i n n a
+gbiri|ɡ b i r i
+gbiruẹn|ɡ b i r u ɛ n
+gbodan|ɡ b o d a n
+gbodin|ɡ b o d i n
+gbodoo|ɡ b o d o o
+gbogba|ɡ b o ɡ b a
+gbogiẹ|ɡ b o g i ɛ
+gbokhuo|ɡ b o x u o
+gbokhuẹre|ɡ b o x u ɛ r e
+gbolighi|ɡ b o l i ɣ i
+gbotọ|ɡ b o t ɔ
+gbua|ɡ b u a
+gbuẹ|ɡ b u ɛ
+gbẹ|ɡ b ɛ
+gbẹbu|ɡ b ɛ b u
+gbẹdọ|ɡ b ɛ d ɔ
+gbẹe|ɡ b ɛ e
+gbẹkunsotọ|ɡ b ɛ k u n s o t ɔ
+gbẹn|ɡ b ɛ n
+gbẹnnẹ|ɡ b ɛ n n ɛ
+gbẹro|ɡ b ɛ r o
+gbẹrorua|ɡ b ɛ r o r u a
+gbọ|ɡ b ɔ
+gbọba|ɡ b ɔ b a
+gbọbokhian|ɡ b ɔ b o x i a n
+gbọvo|ɡ b ɔ v o
+gbọyemwẹ|ɡ b ɔ j e ʋ ɛ
+gbọyẹmmwẹ|ɡ b ɔ j ɛ m ʋ ɛ
+gbọyẹmwe|ɡ b ɔ j ɛ ʋ e
+gbọyẹmwẹ|ɡ b ɔ j ɛ ʋ ɛ
+gbọzinia|ɡ b ɔ z i n i a
+gbọzinian|ɡ b ɔ z i n i a n
+gbọọ|ɡ b ɔ ɔ
+gebrẹl|g e b r ɛ l
+gehazi|g e h a z i
+gele|g e l e
+gelegele|g e l e g e l e
+george|g e o r g e
+germany|g e r m a n j
+gha|ɣ a
+ghaa|ɣ a a
+ghaan|ɣ a a n
+ghae|ɣ a e
+ghagha|ɣ a ɣ a
+ghan|ɣ a n
+ghe|ɣ e
+ghee|ɣ e e
+gheghe|ɣ e ɣ e
+ghete|ɣ e t e
+ghi|ɣ i
+gho|ɣ o
+ghogho|ɣ o ɣ o
+ghughẹ|ɣ u ɣ ɛ
+ghẹ|ɣ ɛ
+ghẹghẹ|ɣ ɛ ɣ ɛ
+ghẹghẹghẹ|ɣ ɛ ɣ ɛ ɣ ɛ
+ghẹẹ|ɣ ɛ ɛ
+ghọghọ|ɣ ɔ ɣ ɔ
+gi|g i
+gia|g i a
+giagia|g i a g i a
+giamafon|g i a m a f o n
+gidi|g i d i
+gie|g i e
+gilead|g i l e a d
+giliad|g i l i a d
+gill|g i l l
+gima|g i m a
+ginna|g i n n a
+ginnaẹn|g i n n a ɛ n
+gio|g i o
+giuan|g i u a n
+giẹ|g i ɛ
+giẹgiẹ|g i ɛ g i ɛ
+giẹn|g i ɛ n
+giẹre|g i ɛ r e
+giẹrẹ|g i ɛ r ɛ
+giọg|g i ɔ g
+gloria|g l o r i a
+glorify|g l o r i f j
+gloves|g l o v e s
+go|g o
+goals|g o a l s
+god|g o d
+gog|g o g
+golaiat|g o l a i a t
+golaiati|g o l a i a t i
+golden|g o l d e n
+gomorra|g o m o ɽ a
+goo|g o o
+good|g o o d
+gorkiy|g o r k i j
+gothic|g o t h i c
+government|g o v e r n m e n t
+graham|g r a h a m
+grant|g r a n t
+graz|g r a z
+great|g r e a t
+greece|g r e e c e
+greek|g r e e k
+grigory|g r i g o r j
+grik|g r i k
+griki|g r i k i
+grounds|g r o u n d s
+grójec|g r ó j e c
+gu|g u
+gua|g u a
+guadeloupe|g u a d e l o u p e
+guae|g u a e
+guaekpa|g u a e k p a
+guaero|g u a e r o
+guakpa|g u a k p a
+gualọ|g u a l ɔ
+gualọe|g u a l ɔ e
+guan|g u a n
+guanrẹn|g u a n r ɛ n
+guard|g u a r d
+guaẹro|g u a ɛ r o
+gue|g u e
+gui|g u i
+guide|g u i d e
+guides|g u i d e s
+gujarat|g u j a r a t
+gujarati|g u j a r a t i
+gulsayra|g u l s a j r a
+gurọọ|g u r ɔ ɔ
+guẹ|g u ɛ
+guẹhun|g u ɛ h u n
+guẹzẹ|g u ɛ z ɛ
+guọ|g u ɔ
+guọghua|g u ɔ ɣ u a
+guọghọ|g u ɔ ɣ ɔ
+guọghọe|g u ɔ ɣ ɔ e
+guọrọ|g u ɔ r ɔ
+gẹdẹgbẹ|g ɛ d ɛ ɡ b ɛ
+gẹdẹgbẹe|g ɛ d ɛ ɡ b ɛ e
+gẹdẹgbẹẹ|g ɛ d ɛ ɡ b ɛ ɛ
+gẹn|g ɛ n
+gẹnẹsis|g ɛ n ɛ s i s
+gọ|g ɔ
+gọvina|g ɔ v i n a
+h|h
+ha|h a
+haan|h a a n
+hab|h a b
+habakọk|h a b a k ɔ k
+hae|h a e
+hag|h a g
+haiyan|h a i j a n
+halloween|h a l l o w e e n
+han|h a n
+hana|h a n a
+hananaia|h a n a n a i a
+hanmwa|h a n ʋ a
+hanmwan|h a n ʋ a n
+hanna|h a n n a
+hanne|h a n n e
+hannọ|h a n n ɔ
+hannọẹn|h a n n ɔ ɛ n
+hans|h a n s
+happiness|h a p p i n e s s
+hardaker|h a r d a k e r
+harold|h a r o l d
+harry|h a ɽ j
+hausa|h a u s a
+hawa|h a w a
+he|h e
+health|h e a l t h
+heart|h e a r t
+hearts|h e a r t s
+heather|h e a t h e r
+hebrew|h e b r e w
+hee|h e e
+hega|h e g a
+heights|h e i ɣ t s
+heldai|h e l d a i
+heli|h e l i
+hell|h e l l
+hemsworth|h e m s w o r t h
+henri|h e n r i
+henry|h e n r j
+henschel|h e n s c h e l
+henshall|h e n s h a l l
+herd|h e r d
+hezikaia|h e z i k a i a
+hia|h i a
+hianrẹn|h i a n r ɛ n
+hib|h i b
+hibru|h i b r u
+hie|h i e
+hiehie|h i e h i e
+high|h i ɣ
+hihiẹ|h i h i ɛ
+hin|h i n
+hindu|h i n d u
+hinrin|h i n r i n
+hinusi|h i n u s i
+hio|h i o
+hiokhuan|h i o x u a n
+history|h i s t o r j
+hitler|h i t l e r
+hiunsi|h i u n s i
+hiẹ|h i ɛ
+hiẹn|h i ɛ n
+hiẹre|h i ɛ r e
+hiẹrẹ|h i ɛ r ɛ
+hiọnrọn|h i ɔ n r ɔ n
+hlybokyy|h l j b o k j j
+ho|h o
+hogha|h o ɣ a
+hoghaa|h o ɣ a a
+holding|h o l d i n g
+hollywood|h o l l j w o o d
+holy|h o l j
+honduras|h o n d u r a s
+honor|h o n o r
+hoo|h o o
+hormone|h o r m o n e
+horẹb|h o r ɛ b
+hoshayahu|h o s h a j a h u
+hotẹl|h o t ɛ l
+how|h o w
+hoz|h o z
+hozia|h o z i a
+hoẹmwe|h o ɛ ʋ e
+hoẹmwẹ|h o ɛ ʋ ɛ
+hu|h u
+huan|h u a n
+huanrẹn|h u a n r ɛ n
+huaro|h u a r o
+hughes|h u ɣ e s
+hungary|h u n g a r j
+huntsinger|h u n t s i n g e r
+hunwan|h u n w a n
+hurricane|h u ɽ i c a n e
+hutter|h u t t e r
+huẹn|h u ɛ n
+huọn|h u ɔ n
+hypertension|h j p e r t e n s i o n
+hẹ|h ɛ
+hẹe|h ɛ e
+hẹko|h ɛ k o
+hẹn|h ɛ n
+hẹnhẹn|h ɛ n h ɛ n
+hẹnnẹ|h ɛ n n ɛ
+hẹnnẹdẹn|h ɛ n n ɛ d ɛ n
+hẹnnẹhẹnnẹ|h ɛ n n ɛ h ɛ n n ɛ
+hẹrọd|h ɛ r ɔ d
+hẹwẹ|h ɛ w ɛ
+hẹzekaia|h ɛ z e k a i a
+hẹzikaia|h ɛ z i k a i a
+họ|h ɔ
+họemwẹ|h ɔ e ʋ ɛ
+họen|h ɔ e n
+họn|h ɔ n
+họẹn|h ɔ ɛ n
+i|i
+ibare|i b a r e
+ibata|i b a t a
+ibavbaro|i b a ʋ a r o
+ibeleku|i b e l e k u
+ibiba|i b i b a
+ibiriki|i b i r i k i
+ibisi|i b i s i
+ibiẹ|i b i ɛ
+ibiẹka|i b i ɛ k a
+ibo|i b o
+ibowa|i b o w a
+ibozẹghẹ|i b o z ɛ ɣ ɛ
+ibriki|i b r i k i
+ibuanro|i b u a n r o
+ibude|i b u d e
+ibudẹ|i b u d ɛ
+ibuohiẹn|i b u o h i ɛ n
+ibọkpọ|i b ɔ k p ɔ
+ibọlu|i b ɔ l u
+ibọru|i b ɔ r u
+ida|i d a
+idaehọ|i d a e h ɔ
+idagbo|i d a ɡ b o
+idan|i d a n
+ideghedeghe|i d e ɣ e d e ɣ e
+idiaghe|i d i a ɣ e
+idin|i d i n
+idinmwiamwẹ|i d i n ʋ i a ʋ ɛ
+idinmwiamẹ|i d i n ʋ i a m ɛ
+idobo|i d o b o
+idobọ|i d o b ɔ
+idu|i d u
+idugie|i d u g i e
+idunmwu|i d u n ʋ u
+idẹn|i d ɛ n
+idẹni|i d ɛ n i
+ifi|i f i
+ifiẹmwẹ|i f i ɛ ʋ ɛ
+ifiẹzo|i f i ɛ z o
+ifiẹzọ|i f i ɛ z ɔ
+iflawa|i f l a w a
+ifuanro|i f u a n r o
+ifuẹko|i f u ɛ k o
+ifuẹn|i f u ɛ n
+ifuẹro|i f u ɛ r o
+ifẹnmwẹ|i f ɛ n ʋ ɛ
+igan|i g a n
+igarawa|i g a r a w a
+igba|i ɡ b a
+igbaha|i ɡ b a h a
+igbama|i ɡ b a m a
+igban|i ɡ b a n
+igbaroghe|i ɡ b a r o ɣ e
+igbava|i ɡ b a v a
+igbe|i ɡ b e
+igbedia|i ɡ b e d i a
+igbinna|i ɡ b i n n a
+igbinnguo|i ɡ b i n n g u o
+igbinnoguo|i ɡ b i n n o g u o
+igbiragia|i ɡ b i r a g i a
+igbodan|i ɡ b o d a n
+igbohiotọ|i ɡ b o h i o t ɔ
+igbohiọtọ|i ɡ b o h i ɔ t ɔ
+igbukpọn|i ɡ b u k p ɔ n
+igbọn|i ɡ b ɔ n
+igbọvo|i ɡ b ɔ v o
+ighaegbe|i ɣ a e ɡ b e
+ighe|i ɣ e
+igho|i ɣ o
+ighobioye|i ɣ o b i o j e
+ighogho|i ɣ o ɣ o
+ighẹ|i ɣ ɛ
+ighọ|i ɣ ɔ
+ighọnmwighọn|i ɣ ɔ n ʋ i ɣ ɔ n
+igie|i g i e
+igiemwi|i g i e ʋ i
+igiode|i g i o d e
+igiodu|i g i o d u
+igiodẹ|i g i o d ɛ
+igiogbe|i g i o ɡ b e
+igiogbẹ|i g i o ɡ b ɛ
+igiowa|i g i o w a
+igipt|i g i p t
+igiuhunmwu|i g i u h u n ʋ u
+igiẹ|i g i ɛ
+igiẹmwi|i g i ɛ ʋ i
+igiọdu|i g i ɔ d u
+igoru|i g o r u
+igue|i g u e
+iguẹ|i g u ɛ
+igẹbọ|i g ɛ b ɔ
+igẹdu|i g ɛ d u
+ihako|i h a k o
+ihan|i h a n
+ihe|i h e
+ihegbe|i h e ɡ b e
+iheva|i h e v a
+ihiehie|i h i e h i e
+ihin|i h i n
+ihinrin|i h i n r i n
+ihinrọn|i h i n r ɔ n
+iho|i h o
+ihoi|i h o i
+ihua|i h u a
+ihuan|i h u a n
+ihue|i h u e
+ihunhun|i h u n h u n
+ihẹ|i h ɛ
+ihẹghẹ|i h ɛ ɣ ɛ
+ihẹn|i h ɛ n
+ihẹwẹ|i h ɛ w ɛ
+ii|i i
+ika|i k a
+ikadẹlẹ|i k a d ɛ l ɛ
+ike|i k e
+ikeferi|i k e f e r i
+ikerhan|i k e ɾ a n
+ikhi|i x i
+ikhuiwu|i x u i w u
+ikhuo|i x u o
+ikhọ|i x ɔ
+ikian|i k i a n
+ikinkin|i k i n k i n
+ikinnegbe|i k i n n e ɡ b e
+iko|i k o
+ikobọ|i k o b ɔ
+ikolo|i k o l o
+ikoroba|i k o r o b a
+ikpadede|i k p a d e d e
+ikpakpa|i k p a k p a
+ikpamẹ|i k p a m ɛ
+ikpanro|i k p a n r o
+ikpe|i k p e
+ikpemehe|i k p e m e h e
+ikpia|i k p i a
+ikpianbọ|i k p i a n b ɔ
+ikpokuta|i k p o k u t a
+ikporhu|i k p o ɾ u
+ikpẹ|i k p ɛ
+ikpẹdẹ|i k p ɛ d ɛ
+ikpẹmwẹ|i k p ɛ ʋ ɛ
+ikpọka|i k p ɔ k a
+iku|i k u
+ikuaengbe|i k u a e n ɡ b e
+ikuanegbe|i k u a n e ɡ b e
+ikuanzọ|i k u a n z ɔ
+ikueta|i k u e t a
+ikun|i k u n
+ikẹkẹ|i k ɛ k ɛ
+ikọ|i k ɔ
+ilavbodẹ|i l a ʋ o d ɛ
+ile|i l e
+ilekhue|i l e x u e
+ilele|i l e l e
+ilẹkẹtin|i l ɛ k ɛ t i n
+ima|i m a
+imamwaemwi|i m a ʋ a e ʋ i
+ime|i m e
+imina|i m i n a
+imiẹfan|i m i ɛ f a n
+imiẹnfan|i m i ɛ n f a n
+imotọ|i m o t ɔ
+imu|i m u
+imuanẹmwẹ|i m u a n ɛ ʋ ɛ
+imuaẹmwẹ|i m u a ɛ ʋ ɛ
+imudia|i m u d i a
+imudiase|i m u d i a s e
+imudiaẹse|i m u d i a ɛ s e
+imuegberriotọ|i m u e ɡ b e ɽ i o t ɔ
+imuohan|i m u o h a n
+imẹ|i m ɛ
+imọto|i m ɔ t o
+in|i n
+inches|i n c h e s
+increase|i n c r e a s e
+index|i n d e x
+india|i n d i a
+indiana|i n d i a n a
+indus|i n d u s
+inian|i n i a n
+insight|i n s i ɣ t
+insurance|i n s u r a n c e
+intanẹt|i n t a n ɛ t
+interviews|i n t e r v i e w s
+inu|i n u
+inugba|i n u ɡ b a
+inọk|i n ɔ k
+inọta|i n ɔ t a
+ionash|i o n a s h
+ipalọ|i p a l ɔ
+ipapa|i p a p a
+iran|i r a n
+irangbe|i r a n ɡ b e
+ireland|i r e l a n d
+irene|i r e n e
+irhioya|i ɾ i o j a
+irhiẹdẹ|i ɾ i ɛ d ɛ
+irhiọha|i ɾ i ɔ h a
+irhuarhua|i ɾ u a ɾ u a
+irin|i r i n
+irina|i r i n a
+irish|i r i s h
+irkutsk|i r k u t s k
+iro|i r o
+irorinmwi|i r o r i n ʋ i
+irri|i ɽ i
+irrioya|i ɽ i o j a
+irunmwu|i r u n ʋ u
+iruẹmwi|i r u ɛ ʋ i
+iruẹn|i r u ɛ n
+irẹn|i r ɛ n
+irẹnmwi|i r ɛ n ʋ i
+irẹnmwẹ|i r ɛ n ʋ ɛ
+irọkhegbe|i r ɔ x e ɡ b e
+is|i s
+isa|i s a
+isanhẹn|i s a n h ɛ n
+isanrẹn|i s a n r ɛ n
+isaranmwẹ|i s a r a n ʋ ɛ
+isasa|i s a s a
+isasegbe|i s a s e ɡ b e
+isi|i s i
+isievẹn|i s i e v ɛ n
+isimwinegbe|i s i ʋ i n e ɡ b e
+isinmwegbe|i s i n ʋ e ɡ b e
+isinmwiegbe|i s i n ʋ i e ɡ b e
+isinmwinegbe|i s i n ʋ i n e ɡ b e
+isiwinna|i s i w i n n a
+isiwnna|i s i w n n a
+island|i s l a n d
+ismẹl|i s m ɛ l
+iso|i s o
+isonorhọ|i s o n o ɾ ɔ
+istanbul|i s t a n b u l
+isu|i s u
+isẹ|i s ɛ
+isẹn|i s ɛ n
+isọ|i s ɔ
+isọtẹ|i s ɔ t ɛ
+italy|i t a l j
+itan|i t a n
+itanẹt|i t a n ɛ t
+itanẹti|i t a n ɛ t i
+itegbe|i t e ɡ b e
+itengbemu|i t e n ɡ b e m u
+itie|i t i e
+ititi|i t i t i
+itohan|i t o h a n
+itota|i t o t a
+itowa|i t o w a
+itẹ|i t ɛ
+iud|i u d
+ivbabọ|i ʋ a b ɔ
+ivbi|i ʋ i
+ivbialeke|i ʋ i a l e k e
+ivbibiemọ|i ʋ i b i e m ɔ
+ivbibiẹ|i ʋ i b i ɛ
+ivbie|i ʋ i e
+ivbiogue|i ʋ i o g u e
+ivbiotu|i ʋ i o t u
+ivbioyokuo|i ʋ i o j o k u o
+ivbiran|i ʋ i r a n
+ivbiyokhuo|i ʋ i j o x u o
+ivbiyokuo|i ʋ i j o k u o
+ivbiẹ|i ʋ i ɛ
+ivbiẹre|i ʋ i ɛ r e
+ivbiọtu|i ʋ i ɔ t u
+ivbuẹ|i ʋ u ɛ
+ive|i v e
+ivi|i v i
+ivin|i v i n
+ivoire|i v o i r e
+ivory|i v o r j
+iwannegbe|i w a n n e ɡ b e
+iwe|i w e
+iwegbe|i w e ɡ b e
+iweha|i w e h a
+iweva|i w e v a
+iwiina|i w i i n a
+iwinna|i w i n n a
+iwo|i w o
+iwu|i w u
+iyan|i j a n
+iyayi|i j a j i
+iye|i j e
+iyehan|i j e h a n
+iyeke|i j e k e
+iyemwẹ|i j e ʋ ɛ
+iyeva|i j e v a
+iyi|i j i
+iyin|i j i n
+iyisẹn|i j i s ɛ n
+iyobemwahia|i j o b e ʋ a h i a
+iyobemwihia|i j o b e ʋ i h i a
+iyobo|i j o b o
+iyobọ|i j o b ɔ
+iyokuo|i j o k u o
+iyowa|i j o w a
+iyuẹ|i j u ɛ
+iyẹ|i j ɛ
+iyẹe|i j ɛ e
+iyẹn|i j ɛ n
+iyọbọ|i j ɔ b ɔ
+izabọ|i z a b ɔ
+izedu|i z e d u
+izigan|i z i g a n
+izigha|i z i ɣ a
+izinegbe|i z i n e ɡ b e
+iziro|i z i r o
+izirọ|i z i r ɔ
+izmir|i z m i r
+izrel|i z r e l
+izrẹl|i z r ɛ l
+izẹl|i z ɛ l
+izọese|i z ɔ e s e
+izọghae|i z ɔ ɣ a e
+izọhẹ|i z ɔ h ɛ
+izọla|i z ɔ l a
+j|j
+jack|j a c k
+jacob|j a c o b
+jairọs|j a i r ɔ s
+jakẹ|j a k ɛ
+james|j a m e s
+jane|j a n e
+janet|j a n e t
+january|j a n u a r j
+japan|j a p a n
+jared|j a r e d
+jason|j a s o n
+jean|j e a n
+jedaia|j e d a i a
+jehava|j e h a v a
+jehova|j e h o v a
+jehovah|j e h o v a h
+jehove|j e h o v e
+jehovo|j e h o v o
+jekọb|j e k ɔ b
+jems|j e m s
+jennifer|j e n n i f e r
+jensen|j e n s e n
+jer|j e r
+jerimaia|j e r i m a i a
+jerusalam|j e r u s a l a m
+jerusalem|j e r u s a l e m
+jerusalẹm|j e r u s a l ɛ m
+jese|j e s e
+jessica|j e s s i c a
+jessie|j e s s i e
+jesu|j e s u
+jesus|j e s u s
+jew|j e w
+joas|j o a s
+job|j o b
+johannes|j o h a n n e s
+johannesburg|j o h a n n e s b u r g
+john|j o h n
+johnny|j o h n n j
+jona|j o n a
+jonatan|j o n a t a n
+jordan|j o r d a n
+jos|j o s
+joseph|j o s e p h
+josephus|j o s e p h u s
+josua|j o s u a
+josẹf|j o s ɛ f
+josẹfi|j o s ɛ f i
+joyfully|j o j f u l l j
+joẹl|j o ɛ l
+jr|j r
+ju|j u
+jud|j u d
+juda|j u d a
+judah|j u d a h
+judaism|j u d a i s m
+judas|j u d a s
+judia|j u d i a
+judith|j u d i t h
+judy|j u d j
+julia|j u l i a
+july|j u l j
+jumpei|j u m p e i
+june|j u n e
+junia|j u n i a
+jusu|j u s u
+jw|j w
+jẹfta|j ɛ f t a
+jẹriko|j ɛ r i k o
+jọdan|j ɔ d a n
+jọn|j ɔ n
+jọs|j ɔ s
+jọsua|j ɔ s u a
+ka|k a
+kaan|k a a n
+kad|k a d
+kadi|k a d i
+kae|k a e
+kaiafas|k a i a f a s
+kaka|k a k a
+kakabọ|k a k a b ɔ
+kamẹl|k a m ɛ l
+kamẹra|k a m ɛ r a
+kan|k a n
+kanmwa|k a n ʋ a
+kano|k a n o
+kansa|k a n s a
+kant|k a n t
+kapadosia|k a p a d o s i a
+karachi|k a r a c h i
+karavan|k a r a v a n
+karo|k a r o
+katekate|k a t e k a t e
+katharina|k a t h a r i n a
+katilac|k a t i l a c
+katọn|k a t ɔ n
+kayla|k a j l a
+kazakhstan|k a z a x s t a n
+kazuhiro|k a z u h i r o
+kaẹn|k a ɛ n
+ke|k e
+kedẹs|k e d ɛ s
+keep|k e e p
+kegha|k e ɣ a
+keghi|k e ɣ i
+kei|k e i
+keni|k e n i
+kere|k e r e
+keritot|k e r i t o t
+kevba|k e ʋ a
+kevbe|k e ʋ e
+kevin|k e v i n
+kg|k g
+kha|x a
+khabe|x a b e
+khaemwisẹ|x a e ʋ i s ɛ
+khaevbisẹ|x a e ʋ i s ɛ
+khakha|x a x a
+khama|x a m a
+khan|x a n
+khare|x a r e
+kharha|x a ɾ a
+khekherriọ|x e x e ɽ i ɔ
+kherhe|x e ɾ e
+khia|x i a
+khian|x i a n
+khianrẹn|x i a n r ɛ n
+khin|x i n
+khirhi|x i ɾ i
+khiẹ|x i ɛ
+khiẹkhiẹ|x i ɛ x i ɛ
+khiẹn|x i ɛ n
+khiẹnnẹ|x i ɛ n n ɛ
+khiọ|x i ɔ
+khu|x u
+khua|x u a
+khuan|x u a n
+khuankhuan|x u a n x u a n
+khuankhuankhuan|x u a n x u a n x u a n
+khue|x u e
+khui|x u i
+khuikhui|x u i x u i
+khuiwu|x u i w u
+khulo|x u l o
+khuo|x u o
+khuẹ|x u ɛ
+khuẹn|x u ɛ n
+khuẹnniẹn|x u ɛ n n i ɛ n
+khuẹrhẹ|x u ɛ ɾ ɛ
+khuọnmwi|x u ɔ n ʋ i
+khẹ|x ɛ
+khẹdọkpa|x ɛ d ɔ k p a
+khẹke|x ɛ k e
+khẹkhẹ|x ɛ x ɛ
+khọ|x ɔ
+khọn|x ɔ n
+khọnmiotọ|x ɔ n m i o t ɔ
+khọnrẹn|x ɔ n r ɛ n
+khọrhiọuan|x ɔ ɾ i ɔ u a n
+khọọn|x ɔ ɔ n
+ki|k i
+kiana|k i a n a
+kie|k i e
+kiekie|k i e k i e
+kiere|k i e r e
+kii|k i i
+kim|k i m
+kin|k i n
+king|k i n g
+kingdom|k i n g d o m
+kinmwi|k i n ʋ i
+kinmwin|k i n ʋ i n
+kinnegbe|k i n n e ɡ b e
+kiri|k i r i
+kkk|k k k
+klan|k l a n
+klas|k l a s
+klasi|k l a s i
+klass|k l a s s
+klaus|k l a u s
+klik|k l i k
+klux|k l u x
+klọb|k l ɔ b
+knorr|k n o ɽ
+knọrr|k n ɔ ɽ
+koko|k o k o
+kolkhoz|k o l x o z
+kor|k o r
+kora|k o r a
+korea|k o r e a
+kotọ|k o t ɔ
+koyọ|k o j ɔ
+koẹ|k o ɛ
+kpa|k p a
+kpaa|k p a a
+kpaegbe|k p a e ɡ b e
+kpannọ|k p a n n ɔ
+kpaodin|k p a o d i n
+kpasi|k p a s i
+kpasẹ|k p a s ɛ
+kpataki|k p a t a k i
+kpe|k p e
+kpee|k p e e
+kpemehe|k p e m e h e
+kpere|k p e r e
+kpigho|k p i ɣ o
+kpikpi|k p i k p i
+kpokpo|k p o k p o
+kpolo|k p o l o
+kpopkpo|k p o p k p o
+kporhu|k p o ɾ u
+kpẹ|k p ɛ
+kpẹe|k p ɛ e
+kpẹre|k p ɛ r e
+kpẹẹ|k p ɛ ɛ
+kpọ|k p ɔ
+kpọlọ|k p ɔ l ɔ
+kpọnmwẹ|k p ɔ n ʋ ɛ
+kpọnmwọn|k p ɔ n ʋ ɔ n
+kraker|k r a k e r
+kristi|k r i s t i
+krrẹdit|k ɽ ɛ d i t
+krọ|k r ɔ
+krọnikol|k r ɔ n i k o l
+ku|k u
+kua|k u a
+kuan|k u a n
+kue|k u e
+kugbe|k u ɡ b e
+kun|k u n
+kurganinsk|k u r g a n i n s k
+kuẹ|k u ɛ
+kuẹi|k u ɛ i
+kuẹn|k u ɛ n
+kuọ|k u ɔ
+kvbe|k ʋ e
+kyoko|k j o k o
+kyrgyz|k j r g j z
+kyrgyzstan|k j r g j z s t a n
+kẹ|k ɛ
+kẹghi|k ɛ ɣ i
+kẹkan|k ɛ k a n
+kẹkua|k ɛ k u a
+kẹkẹ|k ɛ k ɛ
+kẹre|k ɛ r e
+kẹrikian|k ɛ r i k i a n
+kẹvbe|k ɛ ʋ e
+kẹvbẹ|k ɛ ʋ ɛ
+kọ|k ɔ
+kọe|k ɔ e
+kọl|k ɔ l
+kọlose|k ɔ l o s e
+kọlosse|k ɔ l o s s e
+kọlọe|k ɔ l ɔ e
+kọmpas|k ɔ m p a s
+kọmpasi|k ɔ m p a s i
+kọmpini|k ɔ m p i n i
+kọmputa|k ɔ m p u t a
+kọn|k ɔ n
+kọniliọs|k ɔ n i l i ɔ s
+kọnkọn|k ɔ n k ɔ n
+kọnrinti|k ɔ n r i n t i
+kọr|k ɔ r
+kọrinti|k ɔ r i n t i
+l|l
+la|l a
+laban|l a b a n
+ladian|l a d i a n
+lae|l a e
+lagberra|l a ɡ b e ɽ a
+lagos|l a g o s
+lahin|l a h i n
+lahore|l a h o r e
+lahọ|l a h ɔ
+lalọ|l a l ɔ
+lamẹk|l a m ɛ k
+lamẹki|l a m ɛ k i
+land|l a n d
+language|l a n g u a g e
+lanka|l a n k a
+lansing|l a n s i n g
+lao|l a o
+laodisia|l a o d i s i a
+larre|l a ɽ e
+latin|l a t i n
+latvia|l a t v i a
+law|l a w
+lazarọs|l a z a r ɔ s
+lazarọsi|l a z a r ɔ s i
+laọ|l a ɔ
+le|l e
+leads|l e a d s
+learn|l e a r n
+led|l e d
+lefèvre|l e f è v r e
+leigh|l e i ɣ
+lekpa|l e k p a
+lekpae|l e k p a e
+lele|l e l e
+lelẹe|l e l ɛ e
+lene|l e n e
+leon|l e o n
+leone|l e o n e
+lett|l e t t
+leukemia|l e u k e m i a
+lev|l e v
+levbasevba|l e ʋ a s e ʋ a
+li|l i
+lia|l i a
+liberty|l i b e r t j
+library|l i b r a r j
+lidia|l i d i a
+life|l i f e
+lighi|l i ɣ i
+light|l i ɣ t
+lights|l i ɣ t s
+lighua|l i ɣ u a
+link|l i n k
+listra|l i s t r a
+livai|l i v a i
+liver|l i v e r
+liverpool|l i v e r p o o l
+lives|l i v e s
+livija|l i v i j a
+liz|l i z
+lo|l o
+local|l o c a l
+logho|l o ɣ o
+lollards|l o l l a r d s
+london|l o n d o n
+long|l o n g
+loo|l o o
+looro|l o o r o
+los|l o s
+lost|l o s t
+lottie|l o t t i e
+louis|l o u i s
+lovbiẹ|l o ʋ i ɛ
+love|l o v e
+lran|l r a n
+luca|l u c a
+lucia|l u c i a
+lughaẹn|l u ɣ a ɛ n
+lughuaẹn|l u ɣ u a ɛ n
+lughọlughọ|l u ɣ ɔ l u ɣ ɔ
+luigi|l u i g i
+luk|l u k
+luke|l u k e
+lusitania|l u s i t a n i a
+luther|l u t h e r
+luxembourg|l u x e m b o u r g
+luzon|l u z o n
+luẹluẹe|l u ɛ l u ɛ e
+lẹ|l ɛ
+lẹfua|l ɛ f u a
+lẹga|l ɛ g a
+lẹgae|l ɛ g a e
+lẹgbinna|l ɛ ɡ b i n n a
+lẹgbinnaẹn|l ɛ ɡ b i n n a ɛ n
+lẹre|l ɛ r e
+lẹruegbe|l ɛ r u e ɡ b e
+lẹv|l ɛ v
+lẹvitikus|l ɛ v i t i k u s
+lọghọ|l ɔ ɣ ɔ
+lọghọe|l ɔ ɣ ɔ e
+lọkọ|l ɔ k ɔ
+lọt|l ɔ t
+lọọ|l ɔ ɔ
+m|m
+ma|m a
+maa|m a a
+maan|m a a n
+madagascar|m a d a g a s c a r
+madeleine|m a d e l e i n e
+madison|m a d i s o n
+madre|m a d r e
+magog|m a g o g
+mai|m a i
+maika|m a i k a
+mail|m a i l
+mainọ|m a i n ɔ
+mairambubu|m a i r a m b u b u
+mak|m a k
+make|m a k e
+makenzie|m a k e n z i e
+mal|m a l
+malagasy|m a l a g a s j
+malakai|m a l a k a i
+malayalam|m a l a j a l a m
+mama|m a m a
+mambetsadykova|m a m b e t s a d j k o v a
+mandalay|m a n d a l a j
+mangoro|m a n g o r o
+manọẹn|m a n ɔ ɛ n
+map|m a p
+march|m a r c h
+mari|m a r i
+maria|m a r i a
+marie|m a r i e
+marina|m a r i n a
+marthe|m a r t h e
+martin|m a r t i n
+mary|m a r j
+masa|m a s a
+masidonia|m a s i d o n i a
+masih|m a s i h
+masini|m a s i n i
+massachusetts|m a s s a c h u s e t t s
+mat|m a t
+mata|m a t a
+matilda|m a t i l d a
+matiu|m a t i u
+matthews|m a t t h e w s
+mauretania|m a u r e t a n i a
+mavis|m a v i s
+maxim|m a x i m
+may|m a j
+me|m e
+media|m e d i a
+medis|m e d i s
+melissa|m e l i s s a
+mema|m e m a
+meri|m e r i
+mexico|m e x i c o
+mezaia|m e z a i a
+mianmian|m i a n m i a n
+michael|m i c h a e l
+mieke|m i e k e
+milan|m i l a n
+mildred|m i l d r e d
+milky|m i l k j
+million|m i l l i o n
+milton|m i l t o n
+minaẹn|m i n a ɛ n
+ministry|m i n i s t r j
+minor|m i n o r
+minọ|m i n ɔ
+miotọ|m i o t ɔ
+mirjana|m i r j a n a
+mishnah|m i s h n a h
+misiaẹl|m i s i a ɛ l
+mistelbach|m i s t e l b a c h
+miuhunmwu|m i u h u n ʋ u
+mizuho|m i z u h o
+miẹfan|m i ɛ f a n
+miẹke|m i ɛ k e
+miẹn|m i ɛ n
+miẹnfan|m i ɛ n f a n
+miẹnrẹn|m i ɛ n r ɛ n
+miọn|m i ɔ n
+mobọ|m o b ɔ
+modẹkai|m o d ɛ k a i
+moldova|m o l d o v a
+molohan|m o l o h a n
+monique|m o n i q u e
+montevideo|m o n t e v i d e o
+mose|m o s e
+mosemose|m o s e m o s e
+moses|m o s e s
+mosis|m o s i s
+moussanett|m o u s s a n e t t
+mozis|m o z i s
+mozisi|m o z i s i
+mu|m u
+muan|m u a n
+muanẹmwẹ|m u a n ɛ ʋ ɛ
+muaẹmwẹ|m u a ɛ ʋ ɛ
+mudia|m u d i a
+mudiaẹse|m u d i a ɛ s e
+muegbe|m u e ɡ b e
+muegberrioto|m u e ɡ b e ɽ i o t o
+muegberriotọ|m u e ɡ b e ɽ i o t ɔ
+mugbọ|m u ɡ b ɔ
+mumu|m u m u
+muna|m u n a
+munọ|m u n ɔ
+muobọ|m u o b ɔ
+muolọ|m u o l ɔ
+muotọ|m u o t ɔ
+musoẹ|m u s o ɛ
+musọe|m u s ɔ e
+mutsuo|m u t s u o
+muẹmuẹ|m u ɛ m u ɛ
+muẹn|m u ɛ n
+muẹnmuẹn|m u ɛ n m u ɛ n
+muẹnso|m u ɛ n s o
+muẹtinyan|m u ɛ t i n j a n
+mwa|ʋ a
+mwaan|ʋ a a n
+mwamwa|ʋ a ʋ a
+mwamwaẹn|ʋ a ʋ a ɛ n
+mwẹ|ʋ ɛ
+my|m j
+myanmar|m j a n m a r
+mẹ|m ɛ
+mẹriba|m ɛ r i b a
+mẹsini|m ɛ s i n i
+mẹtusẹla|m ɛ t u s ɛ l a
+mẹzaia|m ɛ z a i a
+mẹziaia|m ɛ z i a i a
+mọ|m ɔ
+mọbọ|m ɔ b ɔ
+mọmọ|m ɔ m ɔ
+mọzis|m ɔ z i s
+mọẹn|m ɔ ɛ n
+na|n a
+nabal|n a b a l
+nación|n a c i ó n
+nadia|n a d i a
+nadine|n a d i n e
+nagbọn|n a ɡ b ɔ n
+nai|n a i
+nain|n a i n
+naira|n a i r a
+name|n a m e
+nana|n a n a
+nanaẹn|n a n a ɛ n
+nancy|n a n c j
+nao|n a o
+naryn|n a r j n
+natan|n a t a n
+nataniẹl|n a t a n i ɛ l
+nathan|n a t h a n
+nation|n a t i o n
+national|n a t i o n a l
+nazarẹt|n a z a r ɛ t
+nazarẹti|n a z a r ɛ t i
+nazi|n a z i
+ne|n e
+nebal|n e b a l
+nebraska|n e b r a s k a
+need|n e e d
+neh|n e h
+nehimaia|n e h i m a i a
+nekherhe|n e x e ɾ e
+nekhua|n e x u a
+nekhui|n e x u i
+nekhuẹrhẹ|n e x u ɛ ɾ ɛ
+nekpa|n e k p a
+neman|n e m a n
+nene|n e n e
+netherlands|n e t h e r l a n d s
+new|n e w
+newry|n e w r j
+news|n e w s
+nezlobnaya|n e z l o b n a j a
+nhrer|n h r e r
+ni|n i
+nia|n i a
+nian|n i a n
+niania|n i a n i a
+nianian|n i a n i a n
+nianiaẹn|n i a n i a ɛ n
+nibun|n i b u n
+nii|n i i
+nikaro|n i k a r o
+nikhua|n i x u a
+nikhuo|n i x u o
+nikhuọ|n i x u ɔ
+nikodimọs|n i k o d i m ɔ s
+nikolai|n i k o l a i
+nikpia|n i k p i a
+nikẹre|n i k ɛ r e
+ninevi|n i n e v i
+ninivẹ|n i n i v ɛ
+nisan|n i s a n
+nizhniy|n i z h n i j
+niẹn|n i ɛ n
+no|n o
+noa|n o a
+noam|n o a m
+nodẹ|n o d ɛ
+noemi|n o e m i
+nogie|n o g i e
+nogieha|n o g i e h a
+nogienẹ|n o g i e n ɛ
+nogieva|n o g i e v a
+nokaro|n o k a r o
+nokhua|n o x u a
+nokhuo|n o x u o
+nokhuọ|n o x u ɔ
+nokiekie|n o k i e k i e
+nokpia|n o k p i a
+noma|n o m a
+noncommissioned|n o n c o m m i s s i o n e d
+nora|n o r a
+north|n o r t h
+nov|n o v
+november|n o v e m b e r
+novgorod|n o v g o r o d
+noyaenmwa|n o j a e n ʋ a
+noyaẹnmwa|n o j a ɛ n ʋ a
+nu|n u
+nueva|n u e v a
+nukpogieha|n u k p o g i e h a
+nukpogieva|n u k p o g i e v a
+nun|n u n
+nuẹn|n u ɛ n
+nw|n w
+nyzhnya|n j z h n j a
+nẹ|n ɛ
+nẹdẹ|n ɛ d ɛ
+nẹdẹso|n ɛ d ɛ s o
+nẹi|n ɛ i
+nẹẹn|n ɛ ɛ n
+nọ|n ɔ
+nọbun|n ɔ b u n
+nọdiọn|n ɔ d i ɔ n
+nọfua|n ɔ f u a
+nọgbae|n ɔ ɡ b a e
+nọgbaisi|n ɔ ɡ b a i s i
+nọghayayerriọ|n ɔ ɣ a j a j e ɽ i ɔ
+nọhhuanrẹn|n ɔ h h u a n r ɛ n
+nọhuanrẹn|n ɔ h u a n r ɛ n
+nọkhin|n ɔ x i n
+nọkhua|n ɔ x u a
+nọkhuo|n ɔ x u o
+nọkpa|n ɔ k p a
+nọkpia|n ɔ k p i a
+nọkpọlọ|n ɔ k p ɔ l ɔ
+nọkẹre|n ɔ k ɛ r e
+nọm|n ɔ m
+nọmbas|n ɔ m b a s
+nọnaghiyerriọ|n ɔ n a ɣ i j e ɽ i ɔ
+nọra|n ɔ r a
+nọyaẹmwa|n ɔ j a ɛ ʋ a
+nọyaẹnmwa|n ɔ j a ɛ n ʋ a
+o|o
+oath|o a t h
+oba|o b a
+obaligie|o b a l i g i e
+obalọ|o b a l ɔ
+oberhọmwa|o b e ɾ ɔ ʋ a
+obiyọmwa|o b i j ɔ ʋ a
+obo|o b o
+obobo|o b o b o
+obuẹ|o b u ɛ
+obẹd|o b ɛ d
+obẹlẹ|o b ɛ l ɛ
+obọ|o b ɔ
+obọkhian|o b ɔ x i a n
+obọkpa|o b ɔ k p a
+oct|o c t
+october|o c t o b e r
+odafẹn|o d a f ɛ n
+odakha|o d a x a
+odaro|o d a r o
+odede|o d e d e
+odekun|o d e k u n
+odibo|o d i b o
+odibosa|o d i b o s a
+odin|o d i n
+odiọn|o d i ɔ n
+odo|o d o
+ododo|o d o d o
+odukhunmwu|o d u x u n ʋ u
+oduma|o d u m a
+odẹ|o d ɛ
+odẹkodẹ|o d ɛ k o d ɛ
+odọ|o d ɔ
+odọni|o d ɔ n i
+of|o f
+officers|o f f i c e r s
+offices|o f f i c e s
+ofigbọn|o f i ɡ b ɔ n
+ofunmwegbe|o f u n ʋ e ɡ b e
+ofẹn|o f ɛ n
+ogba|o ɡ b a
+ogberhu|o ɡ b e ɾ u
+ogbewerriẹ|o ɡ b e w e ɽ i ɛ
+ogboi|o ɡ b o i
+ogege|o g e g e
+oghe|o ɣ e
+oghian|o ɣ i a n
+oghodan|o ɣ o d a n
+oghodua|o ɣ o d u a
+oghohọn|o ɣ o h ɔ n
+oghunmwu|o ɣ u n ʋ u
+oghẹ|o ɣ ɛ
+oghẹe|o ɣ ɛ e
+oghẹn|o ɣ ɛ n
+oghọghọ|o ɣ ɔ ɣ ɔ
+ogi|o g i
+ogiasọn|o g i a s ɔ n
+ogie|o g i e
+ogiete|o g i e t e
+ogieva|o g i e v a
+ogiogiẹ|o g i o g i ɛ
+ogiohẹn|o g i o h ɛ n
+ogiukpo|o g i u k p o
+ogiẹ|o g i ɛ
+ogua|o g u a
+ogue|o g u e
+oguomizan|o g u o m i z a n
+oguozizi|o g u o z i z i
+oha|o h a
+ohan|o h a n
+ohanabe|o h a n a b e
+ohanmwẹ|o h a n ʋ ɛ
+ohawa|o h a w a
+ohian|o h i a n
+ohioro|o h i o r o
+ohiẹn|o h i ɛ n
+ohoghe|o h o ɣ e
+ohoghẹ|o h o ɣ ɛ
+ohoho|o h o h o
+ohu|o h u
+ohuan|o h u a n
+ohẹn|o h ɛ n
+ohọ|o h ɔ
+ohọhọ|o h ɔ h ɔ
+okaolotu|o k a o l o t u
+okaro|o k a r o
+oke|o k e
+okeke|o k e k e
+okha|o x a
+okhian|o x i a n
+okhioha|o x i o h a
+okhirhikhirhi|o x i ɾ i x i ɾ i
+okhiẹ|o x i ɛ
+okhiọnkpa|o x i ɔ n k p a
+okhuae|o x u a e
+okhuo|o x u o
+okhuẹn|o x u ɛ n
+okhuọ|o x u ɔ
+okhọn|o x ɔ n
+okhọngborrie|o x ɔ n ɡ b o ɽ i e
+okiekie|o k i e k i e
+okin|o k i n
+oko|o k o
+okoro|o k o r o
+okotọ|o k o t ɔ
+okozẹ|o k o z ɛ
+okpa|o k p a
+okpamẹ|o k p a m ɛ
+okpe|o k p e
+okperhan|o k p e ɾ a n
+okpia|o k p i a
+okpẹhoho|o k p ɛ h o h o
+okpẹvbo|o k p ɛ ʋ o
+okpọmwa|o k p ɔ ʋ a
+okuku|o k u k u
+okun|o k u n
+okuo|o k u o
+okuta|o k u t a
+okuọ|o k u ɔ
+okọ|o k ɔ
+olakpa|o l a k p a
+ole|o l e
+olega|o l e g a
+oleghan|o l e ɣ a n
+olga|o l g a
+olighi|o l i ɣ i
+olika|o l i k a
+olinda|o l i n d a
+oliv|o l i v
+olive|o l i v e
+oliver|o l i v e r
+olivia|o l i v i a
+olodigba|o l o d i ɡ b a
+olodẹ|o l o d ɛ
+olokun|o l o k u n
+olotu|o l o t u
+olympic|o l j m p i c
+olẹga|o l ɛ g a
+olẹtin|o l ɛ t i n
+olọ|o l ɔ
+omugui|o m u g u i
+omuhẹn|o m u h ɛ n
+omurhia|o m u ɾ i a
+omuru|o m u r u
+omuyan|o m u j a n
+omwa|o ʋ a
+omwaikọmwa|o ʋ a i k ɔ ʋ a
+omọ|o m ɔ
+on|o n
+ona|o n a
+oni|o n i
+online|o n l i n e
+onurho|o n u ɾ o
+ore|o r e
+oregbe|o r e ɡ b e
+oreghe|o r e ɣ e
+orere|o r e r e
+org|o r g
+orheyerriọ|o ɾ e j e ɽ i ɔ
+orhiema|o ɾ i e m a
+orhikhan|o ɾ i x a n
+orhion|o ɾ i o n
+orhirhi|o ɾ i ɾ i
+orhiẹnrhiẹn|o ɾ i ɛ n ɾ i ɛ n
+orhiọn|o ɾ i ɔ n
+orhiọnkpa|o ɾ i ɔ n k p a
+orhu|o ɾ u
+orhuan|o ɾ u a n
+orhuaẹn|o ɾ u a ɛ n
+orhukhọ|o ɾ u x ɔ
+orhumwunyẹn|o ɾ u ʋ u n j ɛ n
+orhunmuyẹn|o ɾ u n m u j ɛ n
+orhunmwu|o ɾ u n ʋ u
+orhunmwuyẹn|o ɾ u n ʋ u j ɛ n
+orhọ|o ɾ ɔ
+orhọnmwẹ|o ɾ ɔ n ʋ ɛ
+ori|o r i
+orikhan|o r i x a n
+orinmwi|o r i n ʋ i
+oro|o r o
+orre|o ɽ e
+orriara|o ɽ i a r a
+orriarria|o ɽ i a ɽ i a
+orriete|o ɽ i e t e
+orrirri|o ɽ i ɽ i
+orruan|o ɽ u a n
+orrẹ|o ɽ ɛ
+oru|o r u
+orueghe|o r u e ɣ e
+orueghẹ|o r u e ɣ ɛ
+orukho|o r u x o
+orukhọ|o r u x ɔ
+orukohọ|o r u k o h ɔ
+orọnmwẹ|o r ɔ n ʋ ɛ
+osa|o s a
+osanbua|o s a n b u a
+osanoba|o s a n o b a
+osanobua|o s a n o b u a
+osanobuạ|o s a n o b u ạ
+ose|o s e
+oseghe|o s e ɣ e
+osi|o s i
+osie|o s i e
+osisi|o s i s i
+osuan|o s u a n
+osugi|o s u g i
+osẹ|o s ɛ
+osẹe|o s ɛ e
+ota|o t a
+otagbọn|o t a ɡ b ɔ n
+otako|o t a k o
+oteghe|o t e ɣ e
+oti|o t i
+otiti|o t i t i
+otiẹn|o t i ɛ n
+otiọnrẹn|o t i ɔ n r ɛ n
+oto|o t o
+ototọ|o t o t ɔ
+otu|o t u
+otue|o t u e
+otuẹ|o t u ɛ
+otẹko|o t ɛ k o
+otẹn|o t ɛ n
+otọ|o t ɔ
+otọe|o t ɔ e
+otọre|o t ɔ r e
+our|o u r
+out|o u t
+ova|o v a
+ovan|o v a n
+ovbe|o ʋ e
+ovbehe|o ʋ e h e
+ovbi|o ʋ i
+ovbialeke|o ʋ i a l e k e
+ovbimwẹ|o ʋ i ʋ ɛ
+ovbiogue|o ʋ i o g u e
+ovbioguẹ|o ʋ i o g u ɛ
+ovbiotu|o ʋ i o t u
+ovbiran|o ʋ i r a n
+ovbiyikuo|o ʋ i j i k u o
+ovbiyokuo|o ʋ i j o k u o
+ovbiẹre|o ʋ i ɛ r e
+ovbuẹ|o ʋ u ɛ
+overcoming|o v e r c o m i n g
+overseer|o v e r s e e r
+ovẹn|o v ɛ n
+owa|o w a
+owara|o w a r a
+owebe|o w e b e
+owiẹ|o w i ɛ
+owogho|o w o ɣ o
+owẹ|o w ɛ
+owẹn|o w ɛ n
+oxford|o x f o r d
+oya|o j a
+oyanghan|o j a n ɣ a n
+oyaya|o j a j a
+oyi|o j i
+oyunnuan|o j u n n u a n
+oyọnyọn|o j ɔ n j ɔ n
+ozan|o z a n
+oze|o z e
+ozere|o z e r e
+oziguẹ|o z i g u ɛ
+oziya|o z i j a
+p|p
+packard|p a c k a r d
+pailet|p a i l e t
+pakistan|p a k i s t a n
+palestine|p a l e s t i n e
+pancreas|p a n c r e a s
+paradais|p a r a d a i s
+paradise|p a r a d i s e
+paraguay|p a r a g u a j
+parents|p a r e n t s
+parkinson|p a r k i n s o n
+patience|p a t i e n c e
+paul|p a u l
+paula|p a u l a
+pavel|p a v e l
+pe|p e
+pennsylvania|p e n n s j l v a n i a
+pentecost|p e n t e c o s t
+people|p e o p l e
+perrine|p e ɽ i n e
+persuasion|p e r s u a s i o n
+peshawar|p e s h a w a r
+pesia|p e s i a
+pet|p e t
+peter|p e t e r
+philip|p h i l i p
+philippines|p h i l i p p i n e s
+pine|p i n e
+pioneer|p i o n e e r
+pirhi|p i ɾ i
+pirhipirhi|p i ɾ i p i ɾ i
+pisidia|p i s i d i a
+pit|p i t
+pita|p i t a
+piẹnpiẹnpiẹn|p i ɛ n p i ɛ n p i ɛ n
+placard|p l a c a r d
+planning|p l a n n i n g
+poetzinger|p o e t z i n g e r
+pol|p o l
+polo|p o l o
+portuguese|p o r t u g u e s e
+post|p o s t
+potik|p o t i k
+pp|p p
+pray|p r a j
+prevent|p r e v e n t
+print|p r i n t
+printi|p r i n t i
+priska|p r i s k a
+problems|p r o b l e m s
+professor|p r o f e s s o r
+promise|p r o m i s e
+propaganda|p r o p a g a n d a
+properly|p r o p e r l j
+protection|p r o t e c t i o n
+protestant|p r o t e s t a n t
+pryce|p r j c e
+psalm|p s a l m
+psm|p s m
+publications|p u b l i c a t i o n s
+pursue|p u r s u e
+puteoli|p u t e o l i
+pẹgamọm|p ɛ g a m ɔ m
+pẹnina|p ɛ n i n a
+pẹnsiọn|p ɛ n s i ɔ n
+pẹnt|p ɛ n t
+pẹntikọst|p ɛ n t i k ɔ s t
+pẹpẹ|p ɛ p ɛ
+pẹsia|p ɛ s i a
+pẹtrol|p ɛ t r o l
+pọl|p ɔ l
+pọntiọs|p ɔ n t i ɔ s
+pọntus|p ɔ n t u s
+pọtifa|p ɔ t i f a
+queen|q u e e n
+queenstown|q u e e n s t o w n
+questions|q u e s t i o n s
+quetta|q u e t t a
+r|r
+ra|r a
+rabshakeh|r a b s h a k e h
+rachel|r a c h e l
+rae|r a e
+rainbow|r a i n b o w
+raising|r a i s i n g
+rakiẹl|r a k i ɛ l
+ramah|r a m a h
+ran|r a n
+ranran|r a n r a n
+rantis|r a n t i s
+rape|r a p e
+rapu|r a p u
+raya|r a j a
+re|r e
+reading|r e a d i n g
+really|r e a l l j
+ree|r e e
+references|r e f e r e n c e s
+regained|r e g a i n e d
+rehab|r e h a b
+rehoboam|r e h o b o a m
+rekab|r e k a b
+rekiẹl|r e k i ɛ l
+renee|r e n e e
+rentis|r e n t i s
+republic|r e p u b l i c
+research|r e s e a r c h
+reward|r e w a r d
+reylene|r e j l e n e
+rha|ɾ a
+rhaa|ɾ a a
+rhaan|ɾ a a n
+rhan|ɾ a n
+rhanmwẹ|ɾ a n ʋ ɛ
+rhe|ɾ e
+rherhe|ɾ e ɾ e
+rhia|ɾ i a
+rhiae|ɾ i a e
+rhiakhi|ɾ i a x i
+rhiara|ɾ i a r a
+rhie|ɾ i e
+rhiegba|ɾ i e ɡ b a
+rhiegbe|ɾ i e ɡ b e
+rhiema|ɾ i e m a
+rhiere|ɾ i e r e
+rhietẹ|ɾ i e t ɛ
+rhihe|ɾ i h e
+rhikhan|ɾ i x a n
+rhilo|ɾ i l o
+rhinrin|ɾ i n r i n
+rhiotọ|ɾ i o t ɔ
+rhirhi|ɾ i ɾ i
+rhiẹn|ɾ i ɛ n
+rhiẹnmwẹ|ɾ i ɛ n ʋ ɛ
+rhiẹnrhiẹn|ɾ i ɛ n ɾ i ɛ n
+rhiẹnrhiẹnmwẹ|ɾ i ɛ n ɾ i ɛ n ʋ ɛ
+rhiẹre|ɾ i ɛ r e
+rhiẹrhiẹn|ɾ i ɛ ɾ i ɛ n
+rhiọ|ɾ i ɔ
+rhiọkpaegbe|ɾ i ɔ k p a e ɡ b e
+rhiọrre|ɾ i ɔ ɽ e
+rho|ɾ o
+rhooro|ɾ o o r o
+rhorho|ɾ o ɾ o
+rhovbiẹ|ɾ o ʋ i ɛ
+rhrunmwuda|ɾ r u n ʋ u d a
+rhu|ɾ u
+rhua|ɾ u a
+rhuan|ɾ u a n
+rhuaro|ɾ u a r o
+rhulẹ|ɾ u l ɛ
+rhumwuda|ɾ u ʋ u d a
+rhunmuda|ɾ u n m u d a
+rhunmuwda|ɾ u n m u w d a
+rhunmwda|ɾ u n ʋ d a
+rhunmwuda|ɾ u n ʋ u d a
+rhunmwunda|ɾ u n ʋ u n d a
+rhunnwuda|ɾ u n n w u d a
+rhunwmuda|ɾ u n w m u d a
+rhurhẹ|ɾ u ɾ ɛ
+rhuẹ|ɾ u ɛ
+rhuẹre|ɾ u ɛ r e
+rhuọ|ɾ u ɔ
+rhẹghẹrẹ|ɾ ɛ ɣ ɛ r ɛ
+rhọ|ɾ ɔ
+rhọkpa|ɾ ɔ k p a
+riana|r i a n a
+ribeiro|r i b e i r o
+riberalta|r i b e r a l t a
+riga|r i g a
+rinmwian|r i n ʋ i a n
+rinmwiaẹn|r i n ʋ i a ɛ n
+ro|r o
+robert|r o b e r t
+rodney|r o d n e j
+roger|r o g e r
+roiro|r o i r o
+rom|r o m
+roro|r o r o
+rose|r o s e
+rra|ɽ a
+rraa|ɽ a a
+rran|ɽ a n
+rre|ɽ e
+rree|ɽ e e
+rri|ɽ i
+rria|ɽ i a
+rriabe|ɽ i a b e
+rriara|ɽ i a r a
+rriase|ɽ i a s e
+rrie|ɽ i e
+rriotọ|ɽ i o t ɔ
+rrioya|ɽ i o j a
+rriẹ|ɽ i ɛ
+rriọkpaegbe|ɽ i ɔ k p a e ɡ b e
+rriọkpagbe|ɽ i ɔ k p a ɡ b e
+rriọmwẹ|ɽ i ɔ ʋ ɛ
+rrua|ɽ u a
+rrẹkọd|ɽ ɛ k ɔ d
+rrẹkọdi|ɽ ɛ k ɔ d i
+rrọ|ɽ ɔ
+rrọọ|ɽ ɔ ɔ
+rto|r t o
+ru|r u
+rua|r u a
+ruan|r u a n
+rubẹn|r u b ɛ n
+rudy|r u d j
+rue|r u e
+rueghe|r u e ɣ e
+rukhọ|r u x ɔ
+runagban|r u n a ɡ b a n
+rune|r u n e
+rusell|r u s e l l
+rusk|r u s k
+russell|r u s s e l l
+russia|r u s s i a
+rut|r u t
+ruth|r u t h
+rutherford|r u t h e r f o r d
+rutland|r u t l a n d
+ruẹ|r u ɛ
+ruẹe|r u ɛ e
+ruẹn|r u ɛ n
+ruọ|r u ɔ
+rwanda|r w a n d a
+rẹ|r ɛ
+rẹfidim|r ɛ f i d i m
+rẹghẹrẹ|r ɛ ɣ ɛ r ɛ
+rẹn|r ɛ n
+rẹnkhuan|r ɛ n x u a n
+rẹnkhẹn|r ɛ n x ɛ n
+rẹnrẹn|r ɛ n r ɛ n
+rẹrẹ|r ɛ r ɛ
+rọkhọ|r ɔ x ɔ
+rọkhọe|r ɔ x ɔ e
+rọkhọrọkhọ|r ɔ x ɔ r ɔ x ɔ
+rọkhọọ|r ɔ x ɔ ɔ
+rọn|r ɔ n
+rọnmwẹ|r ɔ n ʋ ɛ
+s|s
+sa|s a
+sachio|s a c h i o
+sadiq|s a d i q
+sadusi|s a d u s i
+safety|s a f e t j
+safira|s a f i r a
+saidọn|s a i d ɔ n
+sailas|s a i l a s
+saimọn|s a i m ɔ n
+saina|s a i n a
+sainai|s a i n a i
+saiprọs|s a i p r ɔ s
+sairọs|s a i r ɔ s
+sakaan|s a k a a n
+sakhalin|s a x a l i n
+sakiko|s a k i k o
+sakua|s a k u a
+sakura|s a k u r a
+salvador|s a l v a d o r
+sam|s a m
+sameria|s a m e r i a
+samuel|s a m u e l
+samuẹl|s a m u ɛ l
+san|s a n
+sanhedrin|s a n h e d r i n
+sankaẹn|s a n k a ɛ n
+santos|s a n t o s
+saransk|s a r a n s k
+sasa|s a s a
+sascha|s a s c h a
+satan|s a t a n
+satọde|s a t ɔ d e
+sawọn|s a w ɔ n
+sayọ|s a j ɔ
+schama|s c h a m a
+schladming|s c h l a d m i n g
+school|s c h o o l
+schroeder|s c h r o e d e r
+scotland|s c o t l a n d
+scriptures|s c r i p t u r e s
+se|s e
+sea|s e a
+sebastian|s e b a s t i a n
+secret|s e c r e t
+see|s e e
+segbe|s e ɡ b e
+sekhae|s e x a e
+sekpe|s e k p e
+senakẹrib|s e n a k ɛ r i b
+sept|s e p t
+september|s e p t e m b e r
+septuagint|s e p t u a g i n t
+sera|s e r a
+serbia|s e r b i a
+serednye|s e r e d n j e
+sergio|s e r g i o
+serriọ|s e ɽ i ɔ
+servant|s e r v a n t
+service|s e r v i c e
+set|s e t
+setan|s e t a n
+setin|s e t i n
+seventy|s e v e n t j
+shall|s h a l l
+sheba|s h e b a
+shimei|s h i m e i
+shobay|s h o b a j
+should|s h o u l d
+si|s i
+siberia|s i b e r i a
+sie|s i e
+siegbe|s i e ɡ b e
+siemaia|s i e m a i a
+sierra|s i e ɽ a
+sign|s i g n
+sikan|s i k a n
+sikh|s i x
+siko|s i k o
+sikẹ|s i k ɛ
+sila|s i l a
+silasila|s i l a s i l a
+silo|s i l o
+silvana|s i l v a n a
+simeon|s i m e o n
+simiọn|s i m i ɔ n
+simon|s i m o n
+simone|s i m o n e
+sin|s i n
+sinagọg|s i n a g ɔ g
+sinagọgi|s i n a g ɔ g i
+sinclair|s i n c l a i r
+sing|s i n g
+singh|s i n ɣ
+single|s i n g l e
+sinmwi|s i n ʋ i
+sinmwin|s i n ʋ i n
+sirach|s i r a c h
+sirra|s i ɽ a
+sisiak|s i s i a k
+situa|s i t u a
+siunẹm|s i u n ɛ m
+sivulsky|s i v u l s k j
+siẹbna|s i ɛ b n a
+siẹkẹm|s i ɛ k ɛ m
+siẹn|s i ɛ n
+siẹnro|s i ɛ n r o
+ske|s k e
+skirt|s k i r t
+skul|s k u l
+sneddon|s n e d d o n
+snow|s n o w
+so|s o
+sobọ|s o b ɔ
+society|s o c i e t j
+sodọm|s o d ɔ m
+sokpan|s o k p a n
+sokuluk|s o k u l u k
+solomọn|s o l o m ɔ n
+someone|s o m e o n e
+somwa|s o ʋ a
+soso|s o s o
+sotọ|s o t ɔ
+south|s o u t h
+soviet|s o v i e t
+soviẹt|s o v i ɛ t
+soyaya|s o j a j a
+soyẹnmwẹ|s o j ɛ n ʋ ɛ
+spain|s p a i n
+spanish|s p a n i s h
+spartak|s p a r t a k
+specific|s p e c i f i c
+spiritual|s p i r i t u a l
+split|s p l i t
+sri|s r i
+stadium|s t a d i u m
+state|s t a t e
+states|s t a t e s
+steffen|s t e f f e n
+stephanie|s t e p h a n i e
+stephen|s t e p h e n
+stewart|s t e w a r t
+stivin|s t i v i n
+stories|s t o r i e s
+street|s t r e e t
+strok|s t r o k
+studio|s t u d i o
+study|s t u d j
+stéphanie|s t é p h a n i e
+su|s u
+sua|s u a
+suan|s u a n
+sudu|s u d u
+suffering|s u f f e r i n g
+sugiẹ|s u g i ɛ
+suigiẹ|s u i g i ɛ
+suiter|s u i t e r
+sukkur|s u k k u r
+sultanalieva|s u l t a n a l i e v a
+sumatra|s u m a t r a
+sumẹ|s u m ɛ
+sunu|s u n u
+super|s u p e r
+supply|s u p p l j
+supreme|s u p r e m e
+susi|s u s i
+susu|s u s u
+susẹ|s u s ɛ
+suẹ|s u ɛ
+suẹe|s u ɛ e
+suẹn|s u ɛ n
+suẹnrẹn|s u ɛ n r ɛ n
+svetlana|s v e t l a n a
+swahili|s w a h i l i
+sweden|s w e d e n
+swift|s w i f t
+switzerland|s w i t z e r l a n d
+sydlik|s j d l i k
+sylviana|s j l v i a n a
+sylvie|s j l v i e
+syndrome|s j n d r o m e
+syntyche|s j n t j c h e
+syriac|s j r i a c
+sẹ|s ɛ
+sẹe|s ɛ e
+sẹkhae|s ɛ x a e
+sẹlẹkẹ|s ɛ l ɛ k ɛ
+sẹnakẹrib|s ɛ n a k ɛ r i b
+sẹnrẹn|s ɛ n r ɛ n
+sẹrae|s ɛ r a e
+sẹre|s ɛ r e
+sẹrriọ|s ɛ ɽ i ɔ
+sẹt|s ɛ t
+sẹtin|s ɛ t i n
+sẹẹ|s ɛ ɛ
+sọ|s ɔ
+sọdom|s ɔ d o m
+sọe|s ɔ e
+sọfurre|s ɔ f u ɽ e
+sọkpan|s ɔ k p a n
+sọl|s ɔ l
+sọn|s ɔ n
+sọnde|s ɔ n d e
+sọni|s ɔ n i
+sọnnọ|s ɔ n n ɔ
+sọnnọẹn|s ɔ n n ɔ ɛ n
+sọnọ|s ɔ n ɔ
+sọrae|s ɔ r a e
+sọregbe|s ɔ r e ɡ b e
+sọs|s ɔ s
+sọsi|s ɔ s i
+sọtẹ|s ɔ t ɛ
+sọyẹmwẹ|s ɔ j ɛ ʋ ɛ
+sọyẹnmwẹ|s ɔ j ɛ n ʋ ɛ
+t|t
+ta|t a
+taa|t a a
+taara|t a a r a
+tabita|t a b i t a
+tacloban|t a c l o b a n
+tae|t a e
+tagalog|t a g a l o g
+tagha|t a ɣ a
+taitọs|t a i t ɔ s
+talinn|t a l i n n
+tallinn|t a l l i n n
+talmud|t a l m u d
+talọ|t a l ɔ
+talọẹ|t a l ɔ ɛ
+tama|t a m a
+tamuolọyan|t a m u o l ɔ j a n
+tan|t a n
+tandroy|t a n d r o j
+tara|t a r a
+tarlac|t a r l a c
+taylor|t a j l o r
+taẹn|t a ɛ n
+te|t e
+teach|t e a c h
+teachings|t e a c h i n g s
+tebe|t e b e
+teenagers|t e e n a g e r s
+tengbemu|t e n ɡ b e m u
+tennessee|t e n n e s s e e
+tertullian|t e r t u l l i a n
+teskey|t e s k e j
+testament|t e s t a m e n t
+tetete|t e t e t e
+texas|t e x a s
+thailand|t h a i l a n d
+that|t h a t
+the|t h e
+thecla|t h e c l a
+theocracy|t h e o c r a c j
+theocratic|t h e o c r a t i c
+theological|t h e o l o g i c a l
+thierry|t h i e ɽ j
+this|t h i s
+thomas|t h o m a s
+thompson|t h o m p s o n
+ti|t i
+tian|t i a n
+tiatira|t i a t i r a
+tie|t i e
+tiere|t i e r e
+tiffany|t i f f a n j
+tila|t i l a
+tilae|t i l a e
+tim|t i m
+time|t i m e
+times|t i m e s
+timothy|t i m o t h j
+timoti|t i m o t i
+timọti|t i m ɔ t i
+tin|t i n
+tipitapa|t i p i t a p a
+titanic|t i t a n i c
+titi|t i t i
+tititi|t i t i t i
+tiẹ|t i ɛ
+tiẹre|t i ɛ r e
+to|t o
+tobaija|t o b a i j a
+tobaijah|t o b a i j a h
+toby|t o b j
+tobọ|t o b ɔ
+tobọre|t o b ɔ r e
+tohan|t o h a n
+tokmok|t o k m o k
+too|t o o
+tools|t o o l s
+toronto|t o r o n t o
+torpedo|t o r p e d o
+tota|t o t a
+tours|t o u r s
+tower|t o w e r
+tract|t r a c t
+tractor|t r a c t o r
+traffic|t r a f f i c
+transcarpathia|t r a n s c a r p a t h i a
+translation|t r a n s l a t i o n
+trazel|t r a z e l
+trials|t r i a l s
+trifaena|t r i f a e n a
+trifosa|t r i f o s a
+troas|t r o a s
+truth|t r u t h
+tsunami|t s u n a m i
+tsunamis|t s u n a m i s
+tu|t u
+tua|t u a
+tue|t u e
+tugie|t u g i e
+tuke|t u k e
+tulun|t u l u n
+tuo|t u o
+tuorre|t u o ɽ e
+turkey|t u r k e j
+tuẹ|t u ɛ
+tuẹin|t u ɛ i n
+tuọ|t u ɔ
+tv|t v
+twentieth|t w e n t i e t h
+tyndale|t j n d a l e
+typewriter|t j p e w r i t e r
+typhoon|t j p h o o n
+tẹ|t ɛ
+tẹkpu|t ɛ k p u
+tẹlifoni|t ɛ l i f o n i
+tẹnrẹn|t ɛ n r ɛ n
+tẹs|t ɛ s
+tẹsalonaika|t ɛ s a l o n a i k a
+tẹssalonaika|t ɛ s s a l o n a i k a
+tẹstimoni|t ɛ s t i m o n i
+tẹtẹtẹ|t ɛ t ɛ t ɛ
+tọ|t ɔ
+tọlọ|t ɔ l ɔ
+tọm|t ɔ m
+tọn|t ɔ n
+tọnnọ|t ɔ n n ɔ
+tọnnọẹn|t ɔ n n ɔ ɛ n
+u|u
+uan|u a n
+ubiẹmwẹ|u b i ɛ ʋ ɛ
+ubọmwẹ|u b ɔ ʋ ɛ
+udazi|u d a z i
+ude|u d e
+udemwurri|u d e ʋ u ɽ i
+udemwẹ|u d e ʋ ɛ
+udinmwimwẹ|u d i n ʋ i ʋ ɛ
+udinmwẹ|u d i n ʋ ɛ
+udu|u d u
+udẹmwẹ|u d ɛ ʋ ɛ
+udẹn|u d ɛ n
+ufifimwẹ|u f i f i ʋ ɛ
+ufomwẹ|u f o ʋ ɛ
+ufumwẹ|u f u ʋ ɛ
+ugamwe|u g a ʋ e
+ugamwẹ|u g a ʋ ɛ
+ugan|u g a n
+ugbaro|u ɡ b a r o
+ugbe|u ɡ b e
+ugbemwẹ|u ɡ b e ʋ ɛ
+ugbo|u ɡ b o
+ugbogiorinmwi|u ɡ b o g i o r i n ʋ i
+ugboloko|u ɡ b o l o k o
+ugborhirhi|u ɡ b o ɾ i ɾ i
+ugborrirri|u ɡ b o ɽ i ɽ i
+ugbẹkun|u ɡ b ɛ k u n
+ugbẹn|u ɡ b ɛ n
+ugbẹnso|u ɡ b ɛ n s o
+ugbẹnsọ|u ɡ b ɛ n s ɔ
+ugbẹnvbe|u ɡ b ɛ n ʋ e
+ugha|u ɣ a
+ughaghe|u ɣ a ɣ e
+ughanmwa|u ɣ a n ʋ a
+ughaẹdẹ|u ɣ a ɛ d ɛ
+ughe|u ɣ e
+ughegbe|u ɣ e ɡ b e
+ughugha|u ɣ u ɣ a
+ughughan|u ɣ u ɣ a n
+ugiasiẹn|u g i a s i ɛ n
+ugie|u g i e
+ugiọnmwẹ|u g i ɔ n ʋ ɛ
+ugue|u g u e
+uguọmwẹ|u g u ɔ ʋ ɛ
+uhae|u h a e
+uhanhan|u h a n h a n
+uhe|u h e
+uhi|u h i
+uhiomwẹ|u h i o ʋ ɛ
+uhiẹn|u h i ɛ n
+uhiọnrọnmwẹ|u h i ɔ n r ɔ n ʋ ɛ
+uhukpa|u h u k p a
+uhunmmwu|u h u n m ʋ u
+uhunmwu|u h u n ʋ u
+uhunmwuta|u h u n ʋ u t a
+ui|u i
+uighur|u i ɣ u r
+uigiasiẹn|u i g i a s i ɛ n
+ujoko|u j o k o
+ukankan|u k a n k a n
+uke|u k e
+ukhiọnfọ|u x i ɔ n f ɔ
+ukhiọnmwẹ|u x i ɔ n ʋ ɛ
+ukhu|u x u
+ukhuegbe|u x u e ɡ b e
+ukhuerhe|u x u e ɾ e
+ukhukhu|u x u x u
+ukhunmwu|u x u n ʋ u
+ukhọmwẹ|u x ɔ ʋ ɛ
+uki|u k i
+uko|u k o
+ukoni|u k o n i
+ukpa|u k p a
+ukpamoyọmọ|u k p a m o j ɔ m ɔ
+ukpamuyọmọ|u k p a m u j ɔ m ɔ
+ukpi|u k p i
+ukpo|u k p o
+ukpogie|u k p o g i e
+ukpogieha|u k p o g i e h a
+ukpogiehan|u k p o g i e h a n
+ukpogienẹ|u k p o g i e n ɛ
+ukpogieva|u k p o g i e v a
+ukpogihirọn|u k p o g i h i r ɔ n
+ukpogisẹn|u k p o g i s ɛ n
+ukpokpo|u k p o k p o
+ukpon|u k p o n
+ukpowẹ|u k p o w ɛ
+ukpu|u k p u
+ukpukpo|u k p u k p o
+ukpunu|u k p u n u
+ukpẹ|u k p ɛ
+ukpọ|u k p ɔ
+ukpọba|u k p ɔ b a
+ukpọmọ|u k p ɔ m ɔ
+ukpọmọkpa|u k p ɔ m ɔ k p a
+ukpọn|u k p ɔ n
+ukraine|u k r a i n e
+uku|u k u
+ukọ|u k ɔ
+ukọnmwẹ|u k ɔ n ʋ ɛ
+ulema|u l e m a
+ulf|u l f
+ulẹ|u l ɛ
+ulẹmwẹ|u l ɛ ʋ ɛ
+uma|u m a
+umamwẹ|u m a ʋ ɛ
+umanmwẹ|u m a n ʋ ɛ
+umaro|u m a r o
+umian|u m i a n
+umiẹn|u m i ɛ n
+ummi|u m m i
+umozo|u m o z o
+umwẹkhẹn|u ʋ ɛ x ɛ n
+umẹkpo|u m ɛ k p o
+umẹwaẹn|u m ɛ w a ɛ n
+umọbọ|u m ɔ b ɔ
+umọbọru|u m ɔ b ɔ r u
+umọdia|u m ɔ d i a
+uncovered|u n c o v e r e d
+union|u n i o n
+united|u n i t e d
+uniẹn|u n i ɛ n
+uniọn|u n i ɔ n
+unu|u n u
+upper|u p p e r
+ur|u r
+urdu|u r d u
+urho|u ɾ o
+urhomwẹ|u ɾ o ʋ ɛ
+urhu|u ɾ u
+urhuevbọ|u ɾ u e ʋ ɔ
+urhuẹvbo|u ɾ u ɛ ʋ o
+urhuẹvbọ|u ɾ u ɛ ʋ ɔ
+urhọmwẹ|u ɾ ɔ ʋ ɛ
+uromwẹ|u r o ʋ ɛ
+urremwẹ|u ɽ e ʋ ɛ
+urri|u ɽ i
+urria|u ɽ i a
+urriẹdẹ|u ɽ i ɛ d ɛ
+uruguay|u r u g u a j
+uruhuẹvbo|u r u h u ɛ ʋ o
+urọnghọn|u r ɔ n ɣ ɔ n
+us|u s
+usakanmwẹ|u s a k a n ʋ ɛ
+use|u s e
+usi|u s i
+using|u s i n g
+ussr|u s s r
+usugi|u s u g i
+usun|u s u n
+usẹ|u s ɛ
+usọmwẹ|u s ɔ ʋ ɛ
+usọnmwẹ|u s ɔ n ʋ ɛ
+utanmwẹ|u t a n ʋ ɛ
+ute|u t e
+utiemwẹ|u t i e ʋ ɛ
+utikọs|u t i k ɔ s
+utun|u t u n
+uvbi|u ʋ i
+uvbẹmwẹ|u ʋ ɛ ʋ ɛ
+uviẹn|u v i ɛ n
+uvun|u v u n
+uwa|u w a
+uwanmwẹ|u w a n ʋ ɛ
+uwaya|u w a j a
+uwerhẹn|u w e ɾ ɛ n
+uwinhinmwẹ|u w i n h i n ʋ ɛ
+uwu|u w u
+uwẹ|u w ɛ
+uwẹnrhiẹn|u w ɛ n ɾ i ɛ n
+uwọnmwẹ|u w ɔ n ʋ ɛ
+uye|u j e
+uyi|u j i
+uyinmwẹ|u j i n ʋ ɛ
+uyomwẹ|u j o ʋ ɛ
+uyunmwu|u j u n ʋ u
+uzaia|u z a i a
+uzbek|u z b e k
+uzẹbu|u z ɛ b u
+uzọla|u z ɔ l a
+va|v a
+van|v a n
+vance|v a n c e
+vannọ|v a n n ɔ
+varter|v a r t e r
+vasile|v a s i l e
+vba|ʋ a
+vbe|ʋ e
+vbekpa|ʋ e k p a
+vbekpae|ʋ e k p a e
+vbene|ʋ e n e
+vbenia|ʋ e n i a
+vbenian|ʋ e n i a n
+vberrio|ʋ e ɽ i o
+vberriọ|ʋ e ɽ i ɔ
+vberrriọ|ʋ e ɽ r i ɔ
+vbia|ʋ i a
+vbirhi|ʋ i ɾ i
+vbiẹ|ʋ i ɛ
+vbiẹre|ʋ i ɛ r e
+vbo|ʋ o
+vbobọvbobọ|ʋ o b ɔ ʋ o b ɔ
+vbozẹe|ʋ o z ɛ e
+vbu|ʋ u
+vbua|ʋ u a
+vburriẹ|ʋ u ɽ i ɛ
+vbuwe|ʋ u w e
+vbuwẹ|ʋ u w ɛ
+vbuọ|ʋ u ɔ
+vbẹ|ʋ ɛ
+vbẹre|ʋ ɛ r e
+vbẹrre|ʋ ɛ ɽ e
+vbọ|ʋ ɔ
+vbọghiyekede|ʋ ɔ ɣ i j e k e d e
+vbọghizẹkpẹ|ʋ ɔ ɣ i z ɛ k p ɛ
+vbọlọ|ʋ ɔ l ɔ
+vbọre|ʋ ɔ r e
+vbọrhirhighayehe|ʋ ɔ ɾ i ɾ i ɣ a j e h e
+vbọrhirhighayehẹ|ʋ ɔ ɾ i ɾ i ɣ a j e h ɛ
+vbọsiẹ|ʋ ɔ s i ɛ
+vbọzẹe|ʋ ɔ z ɛ e
+ve|v e
+vee|v e e
+vekpae|v e k p a e
+venezuela|v e n e z u e l a
+veracruz|v e r a c r u z
+version|v e r s i o n
+vian|v i a n
+vicky|v i c k j
+victor|v i c t o r
+victoria|v i c t o r i a
+video|v i d e o
+vidio|v i d i o
+vietnam|v i e t n a m
+vietnamese|v i e t n a m e s e
+vin|v i n
+vinnọ|v i n n ɔ
+vinter|v i n t e r
+vinọ|v i n ɔ
+visa|v i s a
+vitaly|v i t a l j
+viẹ|v i ɛ
+viẹn|v i ɛ n
+viọ|v i ɔ
+vodyane|v o d j a n e
+volume|v o l u m e
+volumes|v o l u m e s
+vu|v u
+vulgate|v u l g a t e
+vulo|v u l o
+vuẹ|v u ɛ
+vuọn|v u ɔ n
+vẹ|v ɛ
+vẹn|v ɛ n
+vẹwae|v ɛ w a e
+vẹẹ|v ɛ ɛ
+wa|w a
+waa|w a a
+waan|w a a n
+wabọ|w a b ɔ
+wabọre|w a b ɔ r e
+wabọrerua|w a b ɔ r e r u a
+waengbe|w a e n ɡ b e
+wagha|w a ɣ a
+wainwain|w a i n w a i n
+wallen|w a l l e n
+walter|w a l t e r
+wan|w a n
+wanniẹn|w a n n i ɛ n
+wannọ|w a n n ɔ
+wanwan|w a n w a n
+warwick|w a r w i c k
+watch|w a t c h
+watchtower|w a t c h t o w e r
+way|w a j
+we|w e
+weaver|w e a v e r
+websait|w e b s a i t
+wee|w e e
+wegbe|w e ɡ b e
+weghe|w e ɣ e
+werrie|w e ɽ i e
+werriegbe|w e ɽ i e ɡ b e
+werriẹ|w e ɽ i ɛ
+west|w e s t
+wewe|w e w e
+weẹ|w e ɛ
+what|w h a t
+when|w h e n
+whiteboard|w h i t e b o a r d
+why|w h j
+wia|w i a
+wii|w i i
+wika|w i k a
+willett|w i l l e t t
+william|w i l l i a m
+willie|w i l l i e
+winhin|w i n h i n
+winna|w i n n a
+winnaẹn|w i n n a ɛ n
+wio|w i o
+wisdom|w i s d o m
+with|w i t h
+without|w i t h o u t
+witnesses|w i t n e s s e s
+wiẹn|w i ɛ n
+wo|w o
+wol|w o l
+woo|w o o
+word|w o r d
+work|w o r k
+world|w o r l d
+worldwide|w o r l d w i d e
+worua|w o r u a
+wu|w u
+wuegbe|w u e ɡ b e
+wulo|w u l o
+www|w w w
+wycliffe|w j c l i f f e
+wẹ|w ɛ
+wẹbsait|w ɛ b s a i t
+wẹbsaiti|w ɛ b s a i t i
+wẹe|w ɛ e
+wẹnrẹn|w ɛ n r ɛ n
+wẹro|w ɛ r o
+wẹrriẹ|w ɛ ɽ i ɛ
+wẹwẹ|w ɛ w ɛ
+wẹẹ|w ɛ ɛ
+wọlọe|w ɔ l ɔ e
+wọn|w ɔ n
+wọrhọ|w ɔ ɾ ɔ
+wọọ|w ɔ ɔ
+xhosa|x h o s a
+ya|j a
+yaa|j a a
+yaba|j a b a
+yabọ|j a b ɔ
+yabọe|j a b ɔ e
+yae|j a e
+yaeyi|j a e j i
+yagha|j a ɣ a
+yagon|j a g o n
+yama|j a m a
+yan|j a n
+yangbe|j a n ɡ b e
+yangbuẹ|j a n ɡ b u ɛ
+yanghan|j a n ɣ a n
+yankee|j a n k e e
+yanrẹn|j a n r ɛ n
+yantzen|j a n t z e n
+yanyan|j a n j a n
+yaro|j a r o
+yaroslav|j a r o s l a v
+yayi|j a j i
+yaẹn|j a ɛ n
+yaẹngbe|j a ɛ n ɡ b e
+ye|j e
+yearbook|j e a r b o o k
+years|j e a r s
+yegbe|j e ɡ b e
+yerre|j e ɽ e
+yerriọ|j e ɽ i ɔ
+yerẹro|j e r ɛ r o
+yevbe|j e ʋ e
+yevbesọni|j e ʋ e s ɔ n i
+yi|j i
+yin|j i n
+yinrin|j i n r i n
+ymca|j m c a
+yo|j o
+yobọ|j o b ɔ
+yogọt|j o g ɔ t
+yola|j o l a
+york|j o r k
+yorkshire|j o r k s h i r e
+yotọ|j o t ɔ
+you|j o u
+young|j o u n g
+your|j o u r
+yourselves|j o u r s e l v e s
+yuen|j u e n
+yufretis|j u f r e t i s
+yunmwu|j u n ʋ u
+yunu|j u n u
+yuo|j u o
+yuẹ|j u ɛ
+yẹ|j ɛ
+yẹnyẹn|j ɛ n j ɛ n
+yẹrike|j ɛ r i k e
+yẹrẹro|j ɛ r ɛ r o
+yẹẹ|j ɛ ɛ
+yọ|j ɔ
+yọghọ|j ɔ ɣ ɔ
+yọmwẹ|j ɔ ʋ ɛ
+yọn|j ɔ n
+yọre|j ɔ r e
+z|z
+zaan|z a a n
+zagha|z a ɣ a
+zaghae|z a ɣ a e
+zaikiọs|z a i k i ɔ s
+zaikiọsi|z a i k i ɔ s i
+zaiọn|z a i ɔ n
+zakiọsi|z a k i ɔ s i
+zambales|z a m b a l e s
+zan|z a n
+zanzan|z a n z a n
+zaromiẹn|z a r o m i ɛ n
+zaẹn|z a ɛ n
+ze|z e
+zealand|z e a l a n d
+zedu|z e d u
+zeki|z e k i
+zevbe|z e ʋ e
+zeynep|z e j n e p
+zeze|z e z e
+ziengbe|z i e n ɡ b e
+ziga|z i g a
+zihe|z i h e
+zihegbe|z i h e ɡ b e
+zin|z i n
+zinegbe|z i n e ɡ b e
+zion|z i o n
+ziro|z i r o
+ziẹn|z i ɛ n
+zobọ|z o b ɔ
+zogọ|z o g ɔ
+zolotniki|z o l o t n i k i
+zowẹ|z o w ɛ
+zozo|z o z o
+zuan|z u a n
+zuze|z u z e
+zẹ|z ɛ
+zẹdekaia|z ɛ d e k a i a
+zẹdekia|z ɛ d e k i a
+zẹdia|z ɛ d i a
+zẹdẹ|z ɛ d ɛ
+zẹdẹkaia|z ɛ d ɛ k a i a
+zẹe|z ɛ e
+zẹf|z ɛ f
+zẹfanaia|z ɛ f a n a i a
+zẹgiẹ|z ɛ g i ɛ
+zẹk|z ɛ k
+zẹkaraia|z ɛ k a r a i a
+zẹko|z ɛ k o
+zẹrafat|z ɛ r a f a t
+zẹrubabẹl|z ɛ r u b a b ɛ l
+zẹvbe|z ɛ ʋ e
+zẹyọ|z ɛ j ɔ
+zẹẹ|z ɛ ɛ
+zẹẹẹ|z ɛ ɛ ɛ
+zọ|z ɔ
+zọe|z ɔ e
+zọese|z ɔ e s e
+zọghae|z ɔ ɣ a e
+zọkan|z ɔ k a n
+zọlọ|z ɔ l ɔ
+zọmọ|z ɔ m ɔ
+zọọ|z ɔ ɔ
+étaples|é t a p l e s
+ẹ|ɛ
+ẹbe|ɛ b e
+ẹbo|ɛ b o
+ẹbu|ɛ b u
+ẹbubẹ|ɛ b u b ɛ
+ẹbẹdmẹlẹk|ɛ b ɛ d m ɛ l ɛ k
+ẹbọ|ɛ b ɔ
+ẹdagbọn|ɛ d a ɡ b ɔ n
+ẹde|ɛ d e
+ẹdiọn|ɛ d i ɔ n
+ẹdogbo|ɛ d o ɡ b o
+ẹdẹ|ɛ d ɛ
+ẹdẹdẹmwẹdẹ|ɛ d ɛ d ɛ ʋ ɛ d ɛ
+ẹdẹgbegbe|ɛ d ɛ ɡ b e ɡ b e
+ẹdẹnẹre|ɛ d ɛ n ɛ r e
+ẹdẹnẹrẹ|ɛ d ɛ n ɛ r ɛ
+ẹdẹrriọ|ɛ d ɛ ɽ i ɔ
+ẹdọ|ɛ d ɔ
+ẹdọkpai|ɛ d ɔ k p a i
+ẹfe|ɛ f e
+ẹfis|ɛ f i s
+ẹfisọs|ɛ f i s ɔ s
+ẹfẹ|ɛ f ɛ
+ẹgbe|ɛ ɡ b e
+ẹgbo|ɛ ɡ b o
+ẹgbuẹ|ɛ ɡ b u ɛ
+ẹgbẹdin|ɛ ɡ b ɛ d i n
+ẹgbẹe|ɛ ɡ b ɛ e
+ẹghe|ɛ ɣ e
+ẹghẹ|ɛ ɣ ɛ
+ẹghẹe|ɛ ɣ ɛ e
+ẹghẹikẹghẹ|ɛ ɣ ɛ i k ɛ ɣ ɛ
+ẹgiẹgiẹ|ɛ g i ɛ g i ɛ
+ẹgiọn|ɛ g i ɔ n
+ẹgogo|ɛ g o g o
+ẹguae|ɛ g u a e
+ẹgun|ɛ g u n
+ẹguẹ|ɛ g u ɛ
+ẹgẹn|ɛ g ɛ n
+ẹho|ɛ h o
+ẹhoho|ɛ h o h o
+ẹi|ɛ i
+ẹkete|ɛ k e t e
+ẹkhabe|ɛ x a b e
+ẹkhae|ɛ x a e
+ẹkhokho|ɛ x o x o
+ẹkhu|ɛ x u
+ẹkhuia|ɛ x u i a
+ẹkhọe|ɛ x ɔ e
+ẹki|ɛ k i
+ẹko|ɛ k o
+ẹkoata|ɛ k o a t a
+ẹkokoudu|ɛ k o k o u d u
+ẹkorhiẹnrhiẹnmwẹ|ɛ k o ɾ i ɛ n ɾ i ɛ n ʋ ɛ
+ẹkpo|ɛ k p o
+ẹkpotọ|ɛ k p o t ɔ
+ẹkpurhu|ɛ k p u ɾ u
+ẹkpẹn|ɛ k p ɛ n
+ẹkpẹti|ɛ k p ɛ t i
+ẹkpẹtin|ɛ k p ɛ t i n
+ẹks|ɛ k s
+ẹksodọs|ɛ k s o d ɔ s
+ẹkun|ɛ k u n
+ẹkẹ|ɛ k ɛ
+ẹlaihu|ɛ l a i h u
+ẹlaija|ɛ l a i j a
+ẹlaisia|ɛ l a i s i a
+ẹlasia|ɛ l a s i a
+ẹlizabẹt|ɛ l i z a b ɛ t
+ẹlẹtrik|ɛ l ɛ t r i k
+ẹmila|ɛ m i l a
+ẹmu|ɛ m u
+ẹmwa|ɛ ʋ a
+ẹmwata|ɛ ʋ a t a
+ẹmwi|ɛ ʋ i
+ẹmwẹ|ɛ ʋ ɛ
+ẹn|ɛ n
+ẹnina|ɛ n i n a
+ẹnrẹn|ɛ n r ɛ n
+ẹnvẹlop|ɛ n v ɛ l o p
+ẹo|ɛ o
+ẹpaonetọs|ɛ p a o n e t ɔ s
+ẹre|ɛ r e
+ẹrherhe|ɛ ɾ e ɾ e
+ẹrhia|ɛ ɾ i a
+ẹrhiọn|ɛ ɾ i ɔ n
+ẹrhu|ɛ ɾ u
+ẹrhunmwu|ɛ ɾ u n ʋ u
+ẹrhunrhun|ɛ ɾ u n ɾ u n
+ẹrhẹe|ɛ ɾ ɛ e
+ẹrhẹn|ɛ ɾ ɛ n
+ẹrinmmwi|ɛ r i n m ʋ i
+ẹrinmwi|ɛ r i n ʋ i
+ẹro|ɛ r o
+ẹrria|ɛ ɽ i a
+ẹrriọ|ɛ ɽ i ɔ
+ẹrẹ|ɛ r ɛ
+ẹrẹna|ɛ r ɛ n a
+ẹrọnmwọ|ɛ r ɔ n ʋ ɔ
+ẹse|ɛ s e
+ẹseọhẹ|ɛ s e ɔ h ɛ
+ẹsin|ɛ s i n
+ẹsiso|ɛ s i s o
+ẹsoghodan|ɛ s o ɣ o d a n
+ẹsta|ɛ s t a
+ẹsẹ|ɛ s ɛ
+ẹsẹse|ɛ s ɛ s e
+ẹsẹsẹmwẹse|ɛ s ɛ s ɛ ʋ ɛ s e
+ẹsọhẹ|ɛ s ɔ h ɛ
+ẹsọn|ɛ s ɔ n
+ẹsọsi|ɛ s ɔ s i
+ẹti|ɛ t i
+ẹtien|ɛ t i e n
+ẹtin|ɛ t i n
+ẹtiopia|ɛ t i o p i a
+ẹtu|ɛ t u
+ẹtẹ|ɛ t ɛ
+ẹtẹbitẹ|ɛ t ɛ b i t ɛ
+ẹtẹn|ɛ t ɛ n
+ẹvbi|ɛ ʋ i
+ẹvbo|ɛ ʋ o
+ẹvbohoho|ɛ ʋ o h o h o
+ẹwae|ɛ w a e
+ẹwaen|ɛ w a e n
+ẹwanniẹn|ɛ w a n n i ɛ n
+ẹwaẹn|ɛ w a ɛ n
+ẹwerẹ|ɛ w e r ɛ
+ẹwobi|ɛ w o b i
+ẹwu|ɛ w u
+ẹwạen|ɛ w ạ e n
+ẹwẹ|ɛ w ɛ
+ẹwẹe|ɛ w ɛ e
+ẹwẹn|ɛ w ɛ n
+ẹyaẹn|ɛ j a ɛ n
+ẹyotọ|ɛ j o t ɔ
+ẹyẹn|ɛ j ɛ n
+ẹzi|ɛ z i
+ẹzik|ɛ z i k
+ẹzikiẹl|ɛ z i k i ɛ l
+ẹzra|ɛ z r a
+ẹzẹ|ɛ z ɛ
+ẹzọ|ɛ z ɔ
+ẹẹn|ɛ ɛ n
+ọ|ɔ
+ọba|ɔ b a
+ọbafi|ɔ b a f i
+ọbaligie|ɔ b a l i g i e
+ọbevbaru|ɔ b e ʋ a r u
+ọbo|ɔ b o
+ọbokhian|ɔ b o x i a n
+ọbude|ɔ b u d e
+ọbuohiẹn|ɔ b u o h i ɛ n
+ọbọ|ɔ b ɔ
+ọbọbọtizọ|ɔ b ɔ b ɔ t i z ɔ
+ọdafẹn|ɔ d a f ɛ n
+ọdafọn|ɔ d a f ɔ n
+ọdakha|ɔ d a x a
+ọde|ɔ d e
+ọdia|ɔ d i a
+ọdion|ɔ d i o n
+ọdiọn|ɔ d i ɔ n
+ọdoẹki|ɔ d o ɛ k i
+ọduẹki|ɔ d u ɛ k i
+ọdẹ|ɔ d ɛ
+ọdẹn|ɔ d ɛ n
+ọdọ|ɔ d ɔ
+ọfiontọ|ɔ f i o n t ɔ
+ọfisi|ɔ f i s i
+ọfuan|ɔ f u a n
+ọfumwegbe|ɔ f u ʋ e ɡ b e
+ọfunmwegbe|ɔ f u n ʋ e ɡ b e
+ọfunmwẹgbe|ɔ f u n ʋ ɛ ɡ b e
+ọfọ|ɔ f ɔ
+ọgbagbọn|ɔ ɡ b a ɡ b ɔ n
+ọgbalegbe|ɔ ɡ b a l e ɡ b e
+ọgban|ɔ ɡ b a n
+ọgbaroghe|ɔ ɡ b a r o ɣ e
+ọgbehẹn|ɔ ɡ b e h ɛ n
+ọgbenbe|ɔ ɡ b e n b e
+ọgbugbo|ɔ ɡ b u ɡ b o
+ọgbẹlẹzẹ|ɔ ɡ b ɛ l ɛ z ɛ
+ọgbẹn|ɔ ɡ b ɛ n
+ọgbọ|ɔ ɡ b ɔ
+ọgbọmwa|ɔ ɡ b ɔ ʋ a
+ọgbọn|ɔ ɡ b ɔ n
+ọghae|ɔ ɣ a e
+ọghe|ɔ ɣ e
+ọghian|ɔ ɣ i a n
+ọghomwa|ɔ ɣ o ʋ a
+ọghomwẹ|ɔ ɣ o ʋ ɛ
+ọghuẹ|ɔ ɣ u ɛ
+ọghẹ|ɔ ɣ ɛ
+ọghẹe|ɔ ɣ ɛ e
+ọghọ|ɔ ɣ ɔ
+ọghọe|ɔ ɣ ɔ e
+ọghọmwa|ɔ ɣ ɔ ʋ a
+ọgiọrọ|ɔ g i ɔ r ɔ
+ọgua|ɔ g u a
+ọguọmwadia|ɔ g u ɔ ʋ a d i a
+ọguọmwaziro|ɔ g u ɔ ʋ a z i r o
+ọhan|ɔ h a n
+ọhanabe|ɔ h a n a b e
+ọhẹ|ɔ h ɛ
+ọka|ɔ k a
+ọkade|ɔ k a d e
+ọkan|ɔ k a n
+ọkaokuo|ɔ k a o k u o
+ọkaolotu|ɔ k a o l o t u
+ọkemwiokọ|ɔ k e ʋ i o k ɔ
+ọkhaẹn|ɔ x a ɛ n
+ọkhioha|ɔ x i o h a
+ọkhẹ|ɔ x ɛ
+ọkhọ|ɔ x ɔ
+ọkhọe|ɔ x ɔ e
+ọkhọnmwoti|ɔ x ɔ n ʋ o t i
+ọkhọnmwẹ|ɔ x ɔ n ʋ ɛ
+ọkiẹkiẹ|ɔ k i ɛ k i ɛ
+ọkpa|ɔ k p a
+ọkpadin|ɔ k p a d i n
+ọkpan|ɔ k p a n
+ọkpanike|ɔ k p a n i k e
+ọkpankpan|ɔ k p a n k p a n
+ọkpẹn|ɔ k p ɛ n
+ọkpẹre|ɔ k p ɛ r e
+ọkpọ|ɔ k p ɔ
+ọkpọkpa|ɔ k p ɔ k p a
+ọkpọkua|ɔ k p ɔ k u a
+ọkẹn|ɔ k ɛ n
+ọkẹnrẹn|ɔ k ɛ n r ɛ n
+ọlarre|ɔ l a ɽ e
+ọlọghọmwa|ɔ l ɔ ɣ ɔ ʋ a
+ọlọkọmwọrhu|ɔ l ɔ k ɔ ʋ ɔ ɾ u
+ọmakin|ɔ m a k i n
+ọmamwaemwi|ɔ m a ʋ a e ʋ i
+ọmaẹn|ɔ m a ɛ n
+ọmerhan|ɔ m e ɾ a n
+ọmo|ɔ m o
+ọmobọ|ɔ m o b ɔ
+ọmokhuo|ɔ m o x u o
+ọmokpia|ɔ m o k p i a
+ọmotọ|ɔ m o t ɔ
+ọmunu|ɔ m u n u
+ọmwa|ɔ ʋ a
+ọmwaikọmwa|ɔ ʋ a i k ɔ ʋ a
+ọmwakọmwa|ɔ ʋ a k ɔ ʋ a
+ọmwata|ɔ ʋ a t a
+ọmẹhẹ|ɔ m ɛ h ɛ
+ọmọ|ɔ m ɔ
+ọmọdiọn|ɔ m ɔ d i ɔ n
+ọmọkhuo|ɔ m ɔ x u o
+ọmọmọ|ɔ m ɔ m ɔ
+ọna|ɔ n a
+ọni|ɔ n i
+ọnii|ɔ n i i
+ọnrẹn|ɔ n r ɛ n
+ọpia|ɔ p i a
+ọre|ɔ r e
+ọrheyerriọ|ɔ ɾ e j e ɽ i ɔ
+ọrhiae|ɔ ɾ i a e
+ọrhiọn|ɔ ɾ i ɔ n
+ọrho|ɔ ɾ o
+ọrhuanegbe|ɔ ɾ u a n e ɡ b e
+ọrhẹnrhẹn|ɔ ɾ ɛ n ɾ ɛ n
+ọrriẹ|ɔ ɽ i ɛ
+ọrue|ɔ r u e
+ọrẹ|ɔ r ɛ
+ọrọnmwẹ|ɔ r ɔ n ʋ ɛ
+ọrọre|ɔ r ɔ r e
+ọsa|ɔ s a
+ọsanobua|ɔ s a n o b u a
+ọse|ɔ s e
+ọsian|ɔ s i a n
+ọsie|ɔ s i e
+ọsiemwiẹnro|ɔ s i e ʋ i ɛ n r o
+ọsihuan|ɔ s i h u a n
+ọsiọre|ɔ s i ɔ r e
+ọsosẹ|ɔ s o s ɛ
+ọsumẹ|ɔ s u m ɛ
+ọsuohuan|ɔ s u o h u a n
+ọta|ɔ t a
+ọtakhọ|ɔ t a x ɔ
+ọten|ɔ t e n
+ọtien|ɔ t i e n
+ọtiẹn|ɔ t i ɛ n
+ọtiọn|ɔ t i ɔ n
+ọtiọnrẹn|ɔ t i ɔ n r ɛ n
+ọto|ɔ t o
+ọtokha|ɔ t o x a
+ọtuẹn|ɔ t u ɛ n
+ọtẹn|ɔ t ɛ n
+ọtẹnmwẹ|ɔ t ɛ n ʋ ɛ
+ọtọn|ɔ t ɔ n
+ọvbehe|ɔ ʋ e h e
+ọvbi|ɔ ʋ i
+ọvbiotu|ɔ ʋ i o t u
+ọvbokhan|ɔ ʋ o x a n
+ọviẹn|ɔ v i ɛ n
+ọwa|ɔ w a
+ọwara|ɔ w a r a
+ọwarokpa|ɔ w a r o k p a
+ọwarọkpa|ɔ w a r ɔ k p a
+ọwarọkpani|ɔ w a r ɔ k p a n i
+ọwiẹghẹ|ɔ w i ɛ ɣ ɛ
+ọwiẹyi|ɔ w i ɛ j i
+ọwẹwẹ|ɔ w ɛ w ɛ
+ọwọrhọwọrhọ|ɔ w ɔ ɾ ɔ w ɔ ɾ ɔ
+ọya|ɔ j a
+ọyan|ɔ j a n
+ọyasin|ɔ j a s i n
+ọyobọ|ɔ j o b ɔ
+ọyunnuan|ɔ j u n n u a n
+ọyẹnmwe|ɔ j ɛ n ʋ e
+ọyẹnmwẹ|ɔ j ɛ n ʋ ɛ
+ọyẹvbu|ɔ j ɛ ʋ u
+ọza|ɔ z a
+ọzedu|ɔ z e d u
+ọzuọ|ɔ z u ɔ
